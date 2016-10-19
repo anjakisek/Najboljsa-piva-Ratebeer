@@ -1,2 +1,2 @@
-# projekt-programiranje1
-To je naš _prvi_ projekt
+﻿# projekt-programiranje1
+Ta repozitorij vsebuje projekt pri predmetu Programiranje 1. 
