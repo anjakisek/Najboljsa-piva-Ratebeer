@@ -3,10 +3,15 @@ import requests
 import os
 import orodja
 
-def shrani_podatke():
-    for stran in range(1, 11):
-        url = 'https://www.ratebeer.com/beer-ratings/4/{}/'.format(str(stran))
+st_strani = 11
+lokacija = 'C:/Users/Anja/Documents/Programiranje1/Projekt-ratebeer/'
+#lokacija =
+
+def shrani_html1():
+    for stran in range(1, st_strani):
+        url = "https://www.ratebeer.com/beer-ratings/4/{}/".format(str(stran))
         r = requests.get(url)
-        orodja.shrani_datoteko('C:/Users/Anja/Documents/Programiranje1/Projekt-ratebeer/stran{}.txt'.format(str(stran)), str(r.text.encode("utf-8")))
+        orodja.shrani_datoteko('{}stran{}.txt'.format(lokacija, str(stran)), str(r.text.encode("utf-8")))
+
 
 
