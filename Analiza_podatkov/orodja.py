@@ -10,7 +10,7 @@ def shrani_datoteko(lokacija, besedilo):
 
     with open(lokacija, 'w') as datoteka:
         datoteka.write(besedilo)
-        print('shranjeno!')
+        print('shranjeno')
 
 
 def preberi(datoteka):
