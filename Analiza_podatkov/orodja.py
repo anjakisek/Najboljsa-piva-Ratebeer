@@ -2,6 +2,7 @@ import re
 import requests
 import sys
 import os
+import csv
 
 def shrani_datoteko(lokacija, besedilo):
     imenik = os.path.dirname(lokacija)
@@ -14,7 +15,15 @@ def shrani_datoteko(lokacija, besedilo):
 
 
 def preberi(datoteka):
-    '''vrne niz html zapisa v datoteki'''
+    '''vrne niz vsebine datoteke'''
     with open(datoteka) as fajl:
         besedilo = fajl.read()
         return besedilo
+
+def shrani_csv(slovarji, imena_polj, ime_datoteke):
+    with open('../{}'.format(ime_datoteke), 'w') as csv_dat:
+        writer = csv.DictWriter(csv_dat, fieldnames=imena_polj)
+        writer.writeheader()
+        for slovar in slovarji:
+            writer.writerow(slovar)
+        print('shranjen csv')
