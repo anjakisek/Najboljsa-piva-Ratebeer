@@ -3,9 +3,8 @@ import requests
 import os
 import orodja
 
-st_strani = 11
-lokacija = 'C:/Users/Anja/Documents/Programiranje1/Projekt-ratebeer/'
-#lokacija =
+st_strani = 40
+lokacija = '../../'
 
 def shrani_html1():
     '''Shrani html posamezne strani na listi piv in ustvari tekstovne datoteke'''
@@ -29,7 +28,7 @@ def poisci_v_html1():
             seznam_slovarjev.append(podatki.groupdict())
 
     orodja.shrani_datoteko('{}seznam_url.txt'.format(lokacija), str(seznam_url))
-    orodja.shrani_datoteko('{}seznam_slovarjev.txt'.format(lokacija), str(seznam_slovarjev))
+    orodja.shrani_csv(seznam_slovarjev, ['ime', 'ocena', 'naslov'] , 'ocene.csv')
 
 
 
