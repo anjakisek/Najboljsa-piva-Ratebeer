@@ -53,18 +53,22 @@ pivo = []
 
 def shrani_drugo_tabelo():
     '''Za posamezno pivo obišče spletno stran in shrani podatke: ime, pivovarno, stil, kalorije in vsebnost alkohola.'''
-    naslovi = orodja.preberi('../seznam_url.txt')
-    for naslov in naslovi.split('\n'):
+    naslovi = orodja.preberi('../seznam_url.txt').split('\n')
+
+    for i in range(0, len(naslovi) - 1):
+        naslov = naslovi[i]
         url = 'https://www.ratebeer.com{}'.format(naslov)
         besedilo = requests.get(url)
         for pivce in re.finditer(iskanje2, besedilo.text):
             print(pivce.groupdict())
-            pivo.append(pivce.groupdict())
+            pivo.append(olepsaj(pivce))
+
     orodja.shrani_csv(pivo, ['ime', 'pivovarna', 'stil', 'kalorije', 'alkohol'], 'pivo_csv')
 
-def olepsaj(info):
+def olepsaj(podatki):
+    info = podatki.groupdict()
     info['pivovarna'] = olepsaj_lokacijo(info['pivovarna'])
-    info['kaloije'] = int(info['kaloije'])
+    info['kalorije'] = int(info['kalorije'])
     info['alkohol'] = float(olepsaj_alkohol(info['alkohol']))
 
 
