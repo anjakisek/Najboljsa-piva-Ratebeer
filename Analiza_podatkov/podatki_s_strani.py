@@ -3,7 +3,7 @@ import requests
 import os
 import orodja
 
-st_strani = 40
+st_strani = 60
 lokacija = '../../'
 
 def shrani_html1():
@@ -11,7 +11,7 @@ def shrani_html1():
     for stran in range(1, st_strani):
         url = "https://www.ratebeer.com/beer-ratings/4/{}/".format(str(stran))
         r = requests.get(url)
-        orodja.shrani_datoteko('{}stran{}.txt'.format(lokacija, str(stran)), str(r.text.encode("utf-8")))
+        orodja.shrani_datoteko('{}stran{}.txt'.format(lokacija, str(stran)), str(r.text.encode('utf8')))
 
 
 iskanje = re.compile(r'<a style="font-size:20px; font-weight:bold;" href="(?P<naslov>.*?)"'
@@ -36,37 +36,24 @@ def poisci_v_html1():
 
 
 
-
-
-
 iskanje2 = re.compile(r'rel="canonical"><span itemprop="name">(?P<ime>.*?)<span></a>.*?'
                       r'Brewed by.*?<span itemprop="name">(?P<pivovarna>.*?);</span></a>.*?'
                       r'Style:.*?>(?P<stil>.*?);</a>.*?'
-                      r'<br>(?P<Lokacija>.*?)</div>.*?'
+                      r'<br>(?P<mesto>.*?),.*?(?P<drzava>\w*?)(\s)*?</div>.*?'
                       r'>EST. CALORIES</abbr>: <big style="color: #777;">(?P<kalorije>\d{3,4})</strong>.*?'
                       r'<abbr title="Alcohol By Volume">ABV</abbr>: <big style="color: #777;"><strong>(?P<alkohol>.*?)</strong>',
                       #r'(rel="modal:open">(?P<kozarec>.*?)</a>, <div id="modal")*',
                       flags = re.DOTALL)
 
-
+#if mesto[0] == '<'
+#regularni = <a.*?>(?P<mesto>.*?)<.*?>
 pivo = []
 
-def shrani_drugo_tabelo():
-    '''Za posamezno pivo obišče spletno stran in shrani podatke: ime, pivovarno, stil, kalorije in vsebnost alkohola.'''
-    naslovi = orodja.preberi('../seznam_url.txt').split('\n')
-
-    for i in range(0, len(naslovi) - 1):
-        naslov = naslovi[i]
-        url = 'https://www.ratebeer.com{}'.format(naslov)
-        besedilo = requests.get(url)
-        for pivce in re.finditer(iskanje2, besedilo.text):
-            print(pivce.groupdict())
-            pivo.append(olepsaj(pivce))
-
-    orodja.shrani_csv(pivo, ['ime', 'pivovarna', 'stil', 'kalorije', 'alkohol'], 'pivo_csv')
-
-def olepsaj(podatki):
-    info = podatki.groupdict()
+def olepsaj(info):
+    if info['mesto'][0] == '<':
+        isci = r'<a.*?>(?P<mesto>.*?)<.*?>'
+        for i in re.finditer(isci, info['mesto']):
+            info['mesto'] == i.group('mesto')
     info['pivovarna'] = olepsaj_lokacijo(info['pivovarna'])
     info['kalorije'] = int(info['kalorije'])
     info['alkohol'] = float(olepsaj_alkohol(info['alkohol']))
@@ -80,6 +67,24 @@ def olepsaj_lokacijo(besedilo):
     while niz[0] == ' ':
         niz = niz[1:]
     return niz[::-1]
+
+def shrani_drugo_tabelo():
+    '''Za posamezno pivo obišče spletno stran in shrani podatke: ime, pivovarno, stil, kalorije in vsebnost alkohola.'''
+    naslovi = orodja.preberi('../seznam_url.txt').split('\n')
+
+    for i in range(0, len(naslovi) - 1):
+        naslov = naslovi[i]
+        url = 'https://www.ratebeer.com{}'.format(naslov)
+        besedilo = requests.get(url)
+        for pivce in re.finditer(iskanje2, besedilo.text):
+            print(pivce.groupdict())
+            pivo.append(olepsaj(pivce.groupdict()))
+
+    orodja.shrani_csv(pivo, ['ime', 'pivovarna', 'stil', 'kalorije', 'alkohol'], 'pivo_csv')
+print(shrani_drugo_tabelo())
+
+
+
 
 
 
