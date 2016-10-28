@@ -1,13 +1,33 @@
 ime,ocena,naslov
-Westbrook Key Lime Pie Gose,3.6,/beer/westbrook-key-lime-pie-gose/415994/81835/
+AleSmith Anvil ESB,3.1,/beer/alesmith-anvil-esb/2500/22437/
+Arrogant Double Bastard Ale,3.6,/beer/arrogant-double-bastard-ale/11243/414797/
+Firestone Walker 16 &#40;XVI Sixteenth Anniversary Ale&#41;,4.2,/beer/firestone-walker-16-xvi-sixteenth-anniversary-ale/187890/364565/
+Firestone Walker 15 &#40;XV&#41;,3.9,/beer/firestone-walker-15-xv/157928/364565/
+Firestone Walker 14,4.3,/beer/firestone-walker-14/133383/364565/
+Schlafly Tasmanian IPA &#40;TIPA&#41;,3.3,/beer/schlafly-tasmanian-ipa-tipa/187510/431370/
+Rogue Dead Guy Ale,3.0,/beer/rogue-dead-guy-ale/589/431370/
+Buxton / Omnipollo Lemon Meringue Ice Cream Pie,3.7,/beer/buxton--omnipollo-lemon-meringue-ice-cream-pie/447868/112615/
+Siren / Cigar City Caribbean Chocolate Cake,3.8,/beer/siren--cigar-city-caribbean-chocolate-cake/260237/239333/
+Heretic Chocolate Hazelnut Porter &#40;CHP&#41;,3.5,/beer/heretic-chocolate-hazelnut-porter-chp/235853/4850/
+Maui Brewing Coconut Hiwa Porter,3.3,/beer/maui-brewing-coconut-hiwa-porter/59330/101044/
+Cascade Vlad the Imp Aler,3.7,/beer/cascade-vlad-the-imp-aler/96273/101220/
+Ballast Point Dead Ringer Oktoberfest,3.4,/beer/ballast-point-dead-ringer-oktoberfest/278843/68142/
+Tree House Eureka - Citra,3.8,/beer/tree-house-eureka--citra/243924/37192/
+The Veil Master Master Shredder Shredder,3.8,/beer/the-veil-master-master-shredder-shredder/428324/24249/
+Firestone Walker 18 &#40;XVIII Eighteenth Anniversary Ale&#41; ,4.3,/beer/firestone-walker-18-xviii-eighteenth-anniversary-ale/298767/5011/
+Charlevoix Dominus Vobiscum Double,3.3,/beer/charlevoix-dominus-vobiscum-double/59975/414797/
+Dieu du Ciel Solstice d\xc2\x92\xc3\x89t\xc3\xa9 aux Framboises,4.0,/beer/dieu-du-ciel-solstice-dete-aux-framboises/8116/414797/
+Charlevoix Dominus Vobiscum Triple,3.8,/beer/charlevoix-dominus-vobiscum-triple/26564/414797/
+Westvleteren 12 &#40;XII&#41;,3.1,/beer/westvleteren-12-xii/4934/332293/
+Crouch Vale Amarillo,3.5,/beer/crouch-vale-amarillo/24922/3343/
 Cigar City Good Gourd Imperial Pumpkin Ale,3.8,/beer/cigar-city-good-gourd-imperial-pumpkin-ale/97049/29274/
 Cigar City White Oak Jai Alai India Pale Ale,3.3,/beer/cigar-city-white-oak-jai-alai-india-pale-ale/123699/29274/
 Cigar City Jai Alai India Pale Ale,3.5,/beer/cigar-city-jai-alai-india-pale-ale/95103/29274/
 New Belgium 1554 Enlightened Black Lager,3.5,/beer/new-belgium-1554-enlightened-black-lager/1266/138496/
 Cigar City Guayabera Citra Pale Ale,3.5,/beer/cigar-city-guayabera-citra-pale-ale/293597/29274/
 Ballast Point Grunion Pale Ale,4.0,/beer/ballast-point-grunion-pale-ale/223253/205447/
-G\xe4nstaller Br\xe4u Zwickelpils,3.2,/beer/ganstaller-brau-zwickelpils/65398/366007/
-G\xe4nstaller Br\xe4u Affumicator,3.8,/beer/ganstaller-brau-affumicator/106788/366007/
+G\xc3\xa4nstaller Br\xc3\xa4u Zwickelpils,3.2,/beer/ganstaller-brau-zwickelpils/65398/366007/
+G\xc3\xa4nstaller Br\xc3\xa4u Affumicator,3.8,/beer/ganstaller-brau-affumicator/106788/366007/
 Magic Rock Clown Juice,3.4,/beer/magic-rock-clown-juice/177669/31397/
 Stillwater Gose Gone Wild - Phuket,3.7,/beer/stillwater-gose-gone-wild--phuket/430324/385424/
 Magic Rock Rapture,3.6,/beer/magic-rock-rapture/145148/387324/
@@ -20,7 +40,7 @@ Les Trois Mousquetaires S.S. IPA,3.5,/beer/les-trois-mousquetaires-ss-ipa/425456
 Surly / Amager Todd - The Axe Man &#40;Surly Version&#41;,3.9,/beer/surly--amager-todd--the-axe-man-surly-version/289004/347392/
 Les Trois Mousquetaires S.S. IPA,3.9,/beer/les-trois-mousquetaires-ss-ipa/425456/162228/
 Les Trois Mousquetaires S.S. IPA,4.1,/beer/les-trois-mousquetaires-ss-ipa/425456/95615/
-Sierra Nevada / Mahrs Br\xe4u Oktoberfest &#40;2016&#41;,3.1,/beer/sierra-nevada--mahrs-brau-oktoberfest-2016/439036/68821/
+Sierra Nevada / Mahrs Br\xc3\xa4u Oktoberfest &#40;2016&#41;,3.1,/beer/sierra-nevada--mahrs-brau-oktoberfest-2016/439036/68821/
 The Ale Apothecary Sahati,4.1,/beer/the-ale-apothecary-sahati/182982/31748/
 Alpine Beer Company Hoppy Birthday,3.6,/beer/alpine-beer-company-hoppy-birthday/123454/82173/
 Knee Deep Simtra Triple IPA,3.7,/beer/knee-deep-simtra-triple-ipa/166154/388862/
@@ -31,31 +51,30 @@ Anchorage Mosaic Saison,3.6,/beer/anchorage-mosaic-saison/328505/46195/
 Founders Backwoods Bastard,4.5,/beer/founders-backwoods-bastard/69624/281255/
 Les Trois Mousquetaires S.S. Hopfenweisse,3.6,/beer/les-trois-mousquetaires-ss-hopfenweisse/176555/60294/
 Goose Island Bourbon County Stout - Rare 2015,4.4,/beer/goose-island-bourbon-county-stout--rare-2015/374889/141522/
-Bell\x92s Roundhouse IRA,3.9,/beer/bells-roundhouse-ira/99505/290599/
+Bell\xc2\x92s Roundhouse IRA,3.9,/beer/bells-roundhouse-ira/99505/290599/
 Samuel Smiths Oatmeal Stout,4.0,/beer/samuel-smiths-oatmeal-stout/87/276239/
 AleSmith Evil Dead Red,3.9,/beer/alesmith-evil-dead-red/2496/2682/
 Alpine Beer Company Hoppy Birthday,3.5,/beer/alpine-beer-company-hoppy-birthday/123454/146310/
 Toppling Goliath King Sue,4.4,/beer/toppling-goliath-king-sue/252251/92211/
-Hoppin\x92 Frog Barrel Aged BORIS The Crusher ,4.1,/beer/hoppin-frog-barrel-aged-boris-the-crusher/99410/151828/
+Hoppin\xc2\x92 Frog Barrel Aged BORIS The Crusher ,4.1,/beer/hoppin-frog-barrel-aged-boris-the-crusher/99410/151828/
 Dunham LaPatt Porter Robuste,4.2,/beer/dunham-lapatt-porter-robuste/165504/298979/
-Westbrook Key Lime Pie Gose,3.7,/beer/westbrook-key-lime-pie-gose/415994/84999/
 Four Winds Juxtapose Wild IPA,3.7,/beer/four-winds-juxtapose-wild-ipa/254839/128270/
-Lawson\x92s Finest Sip of Sunshine IPA,4.2,/beer/lawsons-finest-sip-of-sunshine-ipa/258973/221467/
+Lawson\xc2\x92s Finest Sip of Sunshine IPA,4.2,/beer/lawsons-finest-sip-of-sunshine-ipa/258973/221467/
 Lagunitas Born Yesterday Pale Ale,4.6,/beer/lagunitas-born-yesterday-pale-ale/295821/40323/
 Ballast Point Grapefruit Sculpin,4.1,/beer/ballast-point-grapefruit-sculpin/213365/293722/
-Bell\x92s Kalamazoo Stout,3.9,/beer/bells-kalamazoo-stout/3209/293722/
+Bell\xc2\x92s Kalamazoo Stout,3.9,/beer/bells-kalamazoo-stout/3209/293722/
 Stone RuinTen Triple IPA,4.1,/beer/stone-ruinten-triple-ipa/171722/293722/
 Hill Farmstead Earl,4.0,/beer/hill-farmstead-earl/127227/128270/
 Pipeworks Blood of the Unicorn &#40;2015-&#41;,2.9,/beer/pipeworks-blood-of-the-unicorn-2015-/351068/121719/
-Huss Koffee K\xf6lsch,3.5,/beer/huss-koffee-kolsch/347658/2549/
-Bell\x92s Quinannan Falls Special Lager,3.7,/beer/bells-quinannan-falls-special-lager/111363/9747/
-Hoppin\x92 Frog Tower Tuesday: Infusion A - Coffee Porter,3.7,/beer/hoppin-frog-tower-tuesday-infusion-a--coffee-porter/261765/14718/
+Huss Koffee K\xc3\xb6lsch,3.5,/beer/huss-koffee-kolsch/347658/2549/
+Bell\xc2\x92s Quinannan Falls Special Lager,3.7,/beer/bells-quinannan-falls-special-lager/111363/9747/
+Hoppin\xc2\x92 Frog Tower Tuesday: Infusion A - Coffee Porter,3.7,/beer/hoppin-frog-tower-tuesday-infusion-a--coffee-porter/261765/14718/
 The Kernel Pale Ale Citra Centennial,3.6,/beer/the-kernel-pale-ale-citra-centennial/162431/55098/
 Orval,4.6,/beer/orval/835/431460/
 Chimay Triple / Blanche &#40;White&#41; / Cinq Cents,4.5,/beer/chimay-triple--blanche-white--cinq-cents/52/431460/
 Jolly Pumpkin La Parcela No. 1 Pumpkin Ale,3.4,/beer/jolly-pumpkin-la-parcela-no-1-pumpkin-ale/94686/331396/
 Modern Times Blazing World,3.6,/beer/modern-times-blazing-world/218227/107313/
-Chimay Bleue &#40;Blue&#41; / Grande R\xe9serve,4.7,/beer/chimay-bleue-blue--grande-reserve/53/431460/
+Chimay Bleue &#40;Blue&#41; / Grande R\xc3\xa9serve,4.7,/beer/chimay-bleue-blue--grande-reserve/53/431460/
 Fremont Field to Ferment - Mosaic,3.7,/beer/fremont-field-to-ferment--mosaic/453464/142195/
 Trillium Cutting Tiles - Mosaic,3.4,/beer/trillium-cutting-tiles--mosaic/436810/104537/
 Stone Smoked Porter,3.7,/beer/stone-smoked-porter/421/163528/
@@ -65,16 +84,16 @@ Stone Enjoy By IPA,4.4,/beer/stone-enjoy-by-ipa/183117/430412/
 Samuel Smiths Taddy Porter,3.9,/beer/samuel-smiths-taddy-porter/94/272419/
 AleSmith IPA,4.2,/beer/alesmith-ipa/14396/430412/
 North Coast Old Rasputin Russian Imperial Stout,3.7,/beer/north-coast-old-rasputin-russian-imperial-stout/680/430412/
-Bell\x92s Two Hearted Ale,4.1,/beer/bells-two-hearted-ale/1502/377571/
-Bell\x92s Roundhouse IRA,3.8,/beer/bells-roundhouse-ira/99505/289313/
+Bell\xc2\x92s Two Hearted Ale,4.1,/beer/bells-two-hearted-ale/1502/377571/
+Bell\xc2\x92s Roundhouse IRA,3.8,/beer/bells-roundhouse-ira/99505/289313/
 Bear Republic Hop Rod Rye Ale,3.9,/beer/bear-republic-hop-rod-rye-ale/8048/257222/
 Great Lakes Brewery Karma Citra,4.7,/beer/great-lakes-brewery-karma-citra/140085/420760/
 Westmalle Dubbel,3.7,/beer/westmalle-dubbel/2205/171576/
 Cellarmaker Neon Nights ,3.6,/beer/cellarmaker-neon-nights/393887/24249/
 Indeed Day Tripper Pale Ale,3.7,/beer/indeed-day-tripper-pale-ale/178169/358922/
 Lagunitas Born Yesterday Pale Ale,4.0,/beer/lagunitas-born-yesterday-pale-ale/295821/167245/
-Dieu du Ciel P\xe9ch\xe9 Mortel ,4.3,/beer/dieu-du-ciel-peche-mortel/11461/421786/
-Fat Head\x92s IBUsive IPA,3.8,/beer/fat-heads-ibusive-ipa/201827/12252/
+Dieu du Ciel P\xc3\xa9ch\xc3\xa9 Mortel ,4.3,/beer/dieu-du-ciel-peche-mortel/11461/421786/
+Fat Head\xc2\x92s IBUsive IPA,3.8,/beer/fat-heads-ibusive-ipa/201827/12252/
 Trillium Sleeper Street IPA - Double Dry Hopped,3.9,/beer/trillium-sleeper-street-ipa--double-dry-hopped/314822/104701/
 Uerige Doppel Sticke,3.9,/beer/uerige-doppel-sticke/46158/341702/
 Angry Chair German Chocolate Cupcake Stout,3.5,/beer/angry-chair-german-chocolate-cupcake-stout/253661/134329/
@@ -94,7 +113,7 @@ Arrogant Bastard Ale,3.8,/beer/arrogant-bastard-ale/1315/88018/
 Aecht Schlenkerla Fastenbier,4.0,/beer/aecht-schlenkerla-fastenbier/43277/247248/
 Cloudwater DIPA - v6,4.0,/beer/cloudwater-dipa--v6/441009/85632/
 Stone 20th Anniversary Encore Series: 02.02.02 Vertical Epic Ale,2.7,/beer/stone-20th-anniversary-encore-series-020202-vertical-epic-ale/12115/10619/
-Fuller\x92s Brewer\x92s Reserve No. 5 Oak Aged Ale,4.3,/beer/fullers-brewers-reserve-no-5-oak-aged-ale/427020/190730/
+Fuller\xc2\x92s Brewer\xc2\x92s Reserve No. 5 Oak Aged Ale,4.3,/beer/fullers-brewers-reserve-no-5-oak-aged-ale/427020/190730/
 Revolution Citra Hero IPA,3.9,/beer/revolution-citra-hero-ipa/272545/117914/
 Bierstadt Slow Pour Pils,4.1,/beer/bierstadt-slow-pour-pils/446048/18957/
 Sierra Nevada / Riegele Oktoberfest &#40;2015&#41;,3.4,/beer/sierra-nevada--riegele-oktoberfest-2015/343894/81835/
@@ -102,9 +121,9 @@ Ballast Point Victory at Sea ,4.7,/beer/ballast-point-victory-at-sea/100542/4304
 Smuttynose Robust Porter,3.9,/beer/smuttynose-robust-porter/5576/137676/
 Trillium Little Rooster,3.8,/beer/trillium-little-rooster/220857/12252/
 Andechser Doppelbock Dunkel,4.1,/beer/andechser-doppelbock-dunkel/1147/94666/
-Bell\x92s Expedition Stout,4.0,/beer/bells-expedition-stout/3214/137676/
+Bell\xc2\x92s Expedition Stout,4.0,/beer/bells-expedition-stout/3214/137676/
 Tree House Bright,3.6,/beer/tree-house-bright/393374/12252/
-Jack\x92s Abby House Lager,3.4,/beer/jacks-abby-house-lager/309389/100269/
+Jack\xc2\x92s Abby House Lager,3.4,/beer/jacks-abby-house-lager/309389/100269/
 Founders Imperial Stout,4.3,/beer/founders-imperial-stout/5933/408972/
 Founders Breakfast Stout,4.2,/beer/founders-breakfast-stout/14956/408972/
 Cycle Barrel-Aged Hazelnut Imperial Stout,4.4,/beer/cycle-barrel-aged-hazelnut-imperial-stout/376070/12252/
@@ -115,18 +134,18 @@ The Bruery Poterie,4.1,/beer/the-bruery-poterie/172506/254570/
 Les Trois Mousquetaires S.S. Sticke Alt,3.7,/beer/les-trois-mousquetaires-ss-sticke-alt/75012/414797/
 Pipeworks The Lizard King,3.8,/beer/pipeworks-the-lizard-king/312611/431410/
 Pipeworks Ninja Vs Unicorn Double IPA,3.9,/beer/pipeworks-ninja-vs-unicorn-double-ipa/165816/431410/
-Schramm\x92s Madeline,4.3,/beer/schramms-madeline/335761/254731/
+Schramm\xc2\x92s Madeline,4.3,/beer/schramms-madeline/335761/254731/
 Welde Bourbon Barrel Bock,3.3,/beer/welde-bourbon-barrel-bock/320155/424604/
 Side Project Bleuet du Fermier,4.5,/beer/side-project-bleuet-du-fermier/406973/254731/
 Pipeworks Emerald Grouper ,3.5,/beer/pipeworks-emerald-grouper/428893/431410/
-Cidre Dupont R\xe9serve,3.6,/beer/cidre-dupont-reserve/28462/254731/
+Cidre Dupont R\xc3\xa9serve,3.6,/beer/cidre-dupont-reserve/28462/254731/
 Sante Adairius Cask Strawberry,4.0,/beer/sante-adairius-cask-strawberry/259969/254731/
 Pipeworks Crimson Snapper,4.1,/beer/pipeworks-crimson-snapper/311813/431410/
 Surly / Amager Todd - The Axe Man &#40;Surly Version&#41;,3.9,/beer/surly--amager-todd--the-axe-man-surly-version/289004/81835/
 Stone Imperial Russian Stout,4.3,/beer/stone-imperial-russian-stout/4315/75216/
 Port Brewing Old Viscosity,3.5,/beer/port-brewing-old-viscosity/19220/31382/
 Stillwater Contemporary Works - Yacht,3.3,/beer/stillwater-contemporary-works--yacht/321441/73651/
-Oskar Blues Dale\x92s Pale Ale,3.3,/beer/oskar-blues-dales-pale-ale/11576/73651/
+Oskar Blues Dale\xc2\x92s Pale Ale,3.3,/beer/oskar-blues-dales-pale-ale/11576/73651/
 North Coast Old Rasputin &#40;Bourbon Barrel&#41;,4.1,/beer/north-coast-old-rasputin-bourbon-barrel/71101/31382/
 Grand Teton Double Vision Doppelbock,4.0,/beer/grand-teton-double-vision-doppelbock/101134/29274/
 Stiegl Radler Grapefruit,2.8,/beer/stiegl-radler-grapefruit/105438/425598/
@@ -149,15 +168,15 @@ Franziskaner Hefe-Weissbier / Weissbier Naturtrub,3.5,/beer/franziskaner-hefe-we
 Lagunitas Tuberfest,3.4,/beer/lagunitas-tuberfest/444171/162378/
 Auval Nordet IPA,4.1,/beer/auval-nordet-ipa/434685/228160/
 Lost Abbey Box Set: Track #10 &#40;Bat out of Hell&#41;,4.5,/beer/lost-abbey-box-set-track-10-bat-out-of-hell/160461/276239/
-Fat Head\x92s Spooky Tooth Imperial Pumpkin Ale,3.5,/beer/fat-heads-spooky-tooth-imperial-pumpkin-ale/151214/135875/
-Fat Head\x92s Spooky Tooth Imperial Pumpkin Ale,3.5,/beer/fat-heads-spooky-tooth-imperial-pumpkin-ale/151214/136526/
-Dieu du Ciel L\x92Herbe \xe0 D\xe9tourne,4.0,/beer/dieu-du-ciel-lherbe-a-detourne/123975/237787/
+Fat Head\xc2\x92s Spooky Tooth Imperial Pumpkin Ale,3.5,/beer/fat-heads-spooky-tooth-imperial-pumpkin-ale/151214/135875/
+Fat Head\xc2\x92s Spooky Tooth Imperial Pumpkin Ale,3.5,/beer/fat-heads-spooky-tooth-imperial-pumpkin-ale/151214/136526/
+Dieu du Ciel L\xc2\x92Herbe \xc3\xa0 D\xc3\xa9tourne,4.0,/beer/dieu-du-ciel-lherbe-a-detourne/123975/237787/
 Hill Farmstead Everett,4.2,/beer/hill-farmstead-everett/126305/122397/
 Allagash Curieux,3.7,/beer/allagash-curieux/38037/92636/
 Hill Farmstead / Kissmeyer / Cambridge Nordic Saison,4.0,/beer/hill-farmstead--kissmeyer--cambridge-nordic-saison/273020/79927/
 Allagash Ghoulschip,3.4,/beer/allagash-ghoulschip/111792/124486/
 Alchemist Focal Banger,4.0,/beer/alchemist-focal-banger/100846/79927/
-Rodenbach Caract\xe8re Rouge,3.8,/beer/rodenbach-caractere-rouge/158126/161828/
+Rodenbach Caract\xc3\xa8re Rouge,3.8,/beer/rodenbach-caractere-rouge/158126/161828/
 Prairie Bomb&#033;,4.2,/beer/prairie-bomb/215531/220012/
 Driftwood Raised by Wolves IPA,4.0,/beer/driftwood-raised-by-wolves-ipa/353995/128270/
 Trillium / Amager Sigtebrod,4.0,/beer/trillium--amager-sigtebrod/454740/142195/
@@ -184,10 +203,10 @@ Societe The Coachman,3.9,/beer/societe-the-coachman/346552/228817/
 Perrin No Rules Vietnamese Porter,3.5,/beer/perrin-no-rules-vietnamese-porter/351067/188026/
 Dogfish Head 90 Minute Imperial IPA,4.2,/beer/dogfish-head-90-minute-imperial-ipa/10569/427683/
 Russian River Sanctification,4.0,/beer/russian-river-sanctification/38052/228817/
-Bell\x92s Expedition Stout,4.2,/beer/bells-expedition-stout/3214/260051/
+Bell\xc2\x92s Expedition Stout,4.2,/beer/bells-expedition-stout/3214/260051/
 Samuel Smiths Oatmeal Stout,3.7,/beer/samuel-smiths-oatmeal-stout/87/272419/
 Founders Breakfast Stout,3.8,/beer/founders-breakfast-stout/14956/345614/
-Young\x92s Double Chocolate Stout,3.8,/beer/youngs-double-chocolate-stout/139/375455/
+Young\xc2\x92s Double Chocolate Stout,3.8,/beer/youngs-double-chocolate-stout/139/375455/
 Lost Abbey Cuvee de Tomme,4.1,/beer/lost-abbey-cuvee-de-tomme/17385/313800/
 Toppling Goliath ZeeLander,3.8,/beer/toppling-goliath-zeelander/153769/82173/
 Toppling Goliath Pompeii IPA,3.9,/beer/toppling-goliath-pompeii-ipa/198739/82173/
@@ -202,34 +221,34 @@ Arrogant Bastard Ale,3.9,/beer/arrogant-bastard-ale/1315/354115/
 Trillium Fort Point Pale Ale - Galaxy Dry Hopped,4.2,/beer/trillium-fort-point-pale-ale--galaxy-dry-hopped/279560/108099/
 Other Half Double Mosaic Dream,4.2,/beer/other-half-double-mosaic-dream/405387/108099/
 New England Coriolis,4.2,/beer/new-england-coriolis/183987/108099/
-Auval Frambo\xebse &#40;2016&#41;,4.3,/beer/auval-framboese-2016/433247/7493/
+Auval Frambo\xc3\xabse &#40;2016&#41;,4.3,/beer/auval-framboese-2016/433247/7493/
 Boneyard Notorious IPA3,3.7,/beer/boneyard-notorious-ipa3/147093/87692/
 Siren Broken Dream,3.1,/beer/siren-broken-dream/204307/87692/
 Buxton Anglo-Belgique,3.6,/beer/buxton-anglo-belgique/392428/87692/
-Chimay &#40;Red / Rouge / Ale / Premi\xe8re&#41;,3.3,/beer/chimay-red--rouge--ale--premiere/51/346242/
+Chimay &#40;Red / Rouge / Ale / Premi\xc3\xa8re&#41;,3.3,/beer/chimay-red--rouge--ale--premiere/51/346242/
 Andechser Weissbier Hell,3.9,/beer/andechser-weissbier-hell/6002/348434/
 Andechser Doppelbock Dunkel,4.1,/beer/andechser-doppelbock-dunkel/1147/348434/
 New Belgium 1554 Enlightened Black Lager,3.6,/beer/new-belgium-1554-enlightened-black-lager/1266/172482/
 Cycle Four Roses BA Rye Stout,4.5,/beer/cycle-four-roses-ba-rye-stout/374043/132930/
-Pilsner Urquell Nefiltrovan\xfd,4.0,/beer/pilsner-urquell-nefiltrovany/44956/137088/
+Pilsner Urquell Nefiltrovan\xc3\xbd,4.0,/beer/pilsner-urquell-nefiltrovany/44956/137088/
 Tired Hands Guillemot Nebula,3.7,/beer/tired-hands-guillemot-nebula/191074/79214/
 Rodenbach Alexander,4.4,/beer/rodenbach-alexander/1195/381995/
 Founders Harvest Ale,4.3,/beer/founders-harvest-ale/40277/88036/
-Pyraser Hopfenpfl\xfccker Pils,3.4,/beer/pyraser-hopfenpflucker-pils/55080/328256/
+Pyraser Hopfenpfl\xc3\xbccker Pils,3.4,/beer/pyraser-hopfenpflucker-pils/55080/328256/
 Trillium Headroom,4.0,/beer/trillium-headroom/355438/99740/
 Ballast Point Indra Kunindra,3.6,/beer/ballast-point-indra-kunindra/150262/3641/
-Schramm\x92s Red Agnes,4.0,/beer/schramms-red-agnes/407785/121719/
+Schramm\xc2\x92s Red Agnes,4.0,/beer/schramms-red-agnes/407785/121719/
 Trillium Scaled Up,3.9,/beer/trillium-scaled-up/382827/134872/
-Sierra Nevada / Mahrs Br\xe4u Oktoberfest &#40;2016&#41;,3.2,/beer/sierra-nevada--mahrs-brau-oktoberfest-2016/439036/99740/
+Sierra Nevada / Mahrs Br\xc3\xa4u Oktoberfest &#40;2016&#41;,3.2,/beer/sierra-nevada--mahrs-brau-oktoberfest-2016/439036/99740/
 Three Floyds Permanent Funeral,4.0,/beer/three-floyds-permanent-funeral/207415/3530/
-Maisel & Friends Marc\x92s Chocolate Bock,3.5,/beer/maisel-friends-marcs-chocolate-bock/185853/414653/
+Maisel & Friends Marc\xc2\x92s Chocolate Bock,3.5,/beer/maisel-friends-marcs-chocolate-bock/185853/414653/
 J.W. Lees Manchester Star Ale,4.4,/beer/jw-lees-manchester-star-ale/14651/137077/
 Trillium Itty Bitty Goose,3.9,/beer/trillium-itty-bitty-goose/275435/121719/
 AleSmith Speedway Stout - Vietnamese Coffee,3.9,/beer/alesmith-speedway-stout--vietnamese-coffee/159307/79214/
 AleSmith Speedway Stout - Vanilla & Coconut,3.8,/beer/alesmith-speedway-stout--vanilla-coconut/147261/79214/
 Buxton / Omnipollo Lemon Meringue Ice Cream Pie,3.0,/beer/buxton--omnipollo-lemon-meringue-ice-cream-pie/447868/87692/
 Hill Farmstead Society & Solitude #8,4.0,/beer/hill-farmstead-society-solitude-8/433782/81835/
-Sierra Nevada / Mahrs Br\xe4u Oktoberfest &#40;2016&#41;,3.2,/beer/sierra-nevada--mahrs-brau-oktoberfest-2016/439036/79263/
+Sierra Nevada / Mahrs Br\xc3\xa4u Oktoberfest &#40;2016&#41;,3.2,/beer/sierra-nevada--mahrs-brau-oktoberfest-2016/439036/79263/
 Arrogant Bastard Ale,3.9,/beer/arrogant-bastard-ale/1315/87692/
 Tired Hands HopHands,3.7,/beer/tired-hands-hophands/173459/104701/
 Hill Farmstead Everett,3.9,/beer/hill-farmstead-everett/126305/292011/
@@ -238,7 +257,7 @@ Lambrate American Magut,3.4,/beer/lambrate-american-magut/232266/87692/
 Alchemist Focal Banger,4.0,/beer/alchemist-focal-banger/100846/90442/
 Neshaminy Creek Punkless Dunkel Pumpkin Wheat Ale,3.6,/beer/neshaminy-creek-punkless-dunkel-pumpkin-wheat-ale/286492/393737/
 Ale Asylum Ambergeddon,3.4,/beer/ale-asylum-ambergeddon/59933/127077/
-G\xe4nstaller Br\xe4u Affumicator,4.0,/beer/ganstaller-brau-affumicator/106788/319802/
+G\xc3\xa4nstaller Br\xc3\xa4u Affumicator,4.0,/beer/ganstaller-brau-affumicator/106788/319802/
 Millstone Cellars Hopvine,3.8,/beer/millstone-cellars-hopvine/240264/188026/
 Heineken H41,2.6,/beer/heineken-h41/414917/133347/
 Three Floyds Wigsplitter,3.6,/beer/three-floyds-wigsplitter/342218/188026/
@@ -250,17 +269,17 @@ Timothy Taylor Landlord &#40;Cask&#41;,4.2,/beer/timothy-taylor-landlord-cask/44
 Tired Hands Shambolic,3.8,/beer/tired-hands-shambolic/252225/61185/
 Foley Brothers Prospect,4.5,/beer/foley-brothers-prospect/352934/57664/
 Trillium / Amager Sigtebrod,4.0,/beer/trillium--amager-sigtebrod/454740/12252/
-Lawson\x92s Finest Chinookerd IPA,4.7,/beer/lawsons-finest-chinookerd-ipa/92737/57664/
+Lawson\xc2\x92s Finest Chinookerd IPA,4.7,/beer/lawsons-finest-chinookerd-ipa/92737/57664/
 Pipeworks Emerald Grouper ,3.7,/beer/pipeworks-emerald-grouper/428893/142513/
 Anchor Porter,3.5,/beer/anchor-porter/48/419889/
 Westvleteren Extra 8,4.3,/beer/westvleteren-extra-8/4935/430218/
 Otter Creek 25th Anniversary Double IPL,3.6,/beer/otter-creek-25th-anniversary-double-ipl/442822/12252/
-Salopian Darwin\x92s Origin,3.4,/beer/salopian-darwins-origin/94270/824/
+Salopian Darwin\xc2\x92s Origin,3.4,/beer/salopian-darwins-origin/94270/824/
 Tired Hands Ourison,4.0,/beer/tired-hands-ourison/372558/43796/
 Rogue Dead Guy Ale,3.5,/beer/rogue-dead-guy-ale/589/254731/
 Brooklyn Lager,2.1,/beer/brooklyn-lager/528/431241/
 Chimay Triple / Blanche &#40;White&#41; / Cinq Cents,4.4,/beer/chimay-triple--blanche-white--cinq-cents/52/417525/
-Dieu du Ciel L\x92Herbe \xe0 D\xe9tourne,4.3,/beer/dieu-du-ciel-lherbe-a-detourne/123975/366526/
+Dieu du Ciel L\xc2\x92Herbe \xc3\xa0 D\xc3\xa9tourne,4.3,/beer/dieu-du-ciel-lherbe-a-detourne/123975/366526/
 Kulmbacher Eisbock,2.9,/beer/kulmbacher-eisbock/14367/244348/
 Beavertown Black Betty,3.7,/beer/beavertown-black-betty/191161/101044/
 Aecht Schlenkerla Helles Lagerbier,3.8,/beer/aecht-schlenkerla-helles-lagerbier/16402/366526/
@@ -281,10 +300,10 @@ Driftwood Fat Tug IPA,3.9,/beer/driftwood-fat-tug-ipa/133091/43711/
 Modern Times City of the Dead,4.1,/beer/modern-times-city-of-the-dead/312152/426635/
 Oskar Blues / Shamrock Death By Coconut,3.4,/beer/oskar-blues--shamrock-death-by-coconut/261714/143114/
 Kern River Just Outstanding IPA,3.9,/beer/kern-river-just-outstanding-ipa/60743/241596/
-O\x92Fallon Imperial Pumpkin,4.0,/beer/ofallon-imperial-pumpkin/289765/120804/
+O\xc2\x92Fallon Imperial Pumpkin,4.0,/beer/ofallon-imperial-pumpkin/289765/120804/
 Stillwater Tenacity &#40;/t&#601;&#712;nas&#601;d&#275;/&#41;,3.2,/beer/stillwater-tenacity-t601712nas601d275-/376381/100269/
 Tired Hands Helles Other People ,4.0,/beer/tired-hands-helles-other-people/404618/27740/
-Bell\x92s Roundhouse IRA,4.0,/beer/bells-roundhouse-ira/99505/27740/
+Bell\xc2\x92s Roundhouse IRA,4.0,/beer/bells-roundhouse-ira/99505/27740/
 The Bruery Melange #14,3.8,/beer/the-bruery-melange-14/425053/129822/
 Lagunitas Born Yesterday Pale Ale,4.0,/beer/lagunitas-born-yesterday-pale-ale/295821/61185/
 Wicked Weed Pernicious IPA,4.0,/beer/wicked-weed-pernicious-ipa/328500/4483/
@@ -300,26 +319,26 @@ Fremont Brew 1000,3.7,/beer/fremont-brew-1000/270858/188026/
 Deschutes Fresh Squeezed IPA,3.3,/beer/deschutes-fresh-squeezed-ipa/119596/356371/
 Driftwood Entangled Hopfenweisse,4.0,/beer/driftwood-entangled-hopfenweisse/297853/425598/
 Cycle Barrel-Aged Hazelnut Imperial Stout,4.3,/beer/cycle-barrel-aged-hazelnut-imperial-stout/376070/188026/
-Funky Buddha Wide Awake It\x92s Morning,3.9,/beer/funky-buddha-wide-awake-its-morning/148014/188026/
+Funky Buddha Wide Awake It\xc2\x92s Morning,3.9,/beer/funky-buddha-wide-awake-its-morning/148014/188026/
 Tired Hands Shambolic,3.9,/beer/tired-hands-shambolic/252225/85479/
 Trillium Scaled Up,4.1,/beer/trillium-scaled-up/382827/188026/
 Sierra Nevada Vienna Lager,3.3,/beer/sierra-nevada-vienna-lager/58996/344778/
-Sierra Nevada / Mahrs Br\xe4u Oktoberfest &#40;2016&#41;,2.8,/beer/sierra-nevada--mahrs-brau-oktoberfest-2016/439036/47265/
+Sierra Nevada / Mahrs Br\xc3\xa4u Oktoberfest &#40;2016&#41;,2.8,/beer/sierra-nevada--mahrs-brau-oktoberfest-2016/439036/47265/
 Maui Brewing Coconut Hiwa Porter,3.5,/beer/maui-brewing-coconut-hiwa-porter/59330/44939/
 Lakefront Imperial Pumpkin &#40;2014-&#41;,3.9,/beer/lakefront-imperial-pumpkin-2014-/286917/319149/
 Prairie Coffee Okie,4.1,/beer/prairie-coffee-okie/382217/49098/
 Lagunitas Born Yesterday Pale Ale,4.0,/beer/lagunitas-born-yesterday-pale-ale/295821/87404/
 Great Divide Yeti Imperial Stout - Oak Aged ,4.2,/beer/great-divide-yeti-imperial-stout--oak-aged/37652/359112/
-Cigar City Hunahpu\x92s Imperial Stout,4.5,/beer/cigar-city-hunahpus-imperial-stout/97078/122460/
+Cigar City Hunahpu\xc2\x92s Imperial Stout,4.5,/beer/cigar-city-hunahpus-imperial-stout/97078/122460/
 North Coast Old Rasputin Russian Imperial Stout,4.1,/beer/north-coast-old-rasputin-russian-imperial-stout/680/241596/
 Avery Rumpkin,3.8,/beer/avery-rumpkin/131832/46225/
-Bell\x92s Quinannan Falls Special Lager,3.4,/beer/bells-quinannan-falls-special-lager/111363/259758/
+Bell\xc2\x92s Quinannan Falls Special Lager,3.4,/beer/bells-quinannan-falls-special-lager/111363/259758/
 Great Lakes Brewery Karma Citra,4.6,/beer/great-lakes-brewery-karma-citra/140085/207197/
 Stone 20th Anniversary Encore Series: 10th Anniversary IPA,3.3,/beer/stone-20th-anniversary-encore-series-10th-anniversary-ipa/63291/210148/
 Evil Twin Imperial Biscotti Break,4.0,/beer/evil-twin-imperial-biscotti-break/168309/256435/
 Beyond the Pale Aromatherapy - American IPA,4.1,/beer/beyond-the-pale-aromatherapy--american-ipa/384806/326289/
 Trillium Summer Street IPA - Double Dry Hopped,4.3,/beer/trillium-summer-street-ipa--double-dry-hopped/339405/105791/
-Bell\x92s Expedition Stout,4.0,/beer/bells-expedition-stout/3214/377571/
+Bell\xc2\x92s Expedition Stout,4.0,/beer/bells-expedition-stout/3214/377571/
 Great Divide Hercules Double IPA,3.5,/beer/great-divide-hercules-double-ipa/32751/27227/
 Allagash Little Brett,4.1,/beer/allagash-little-brett/385843/104742/
 Wiseacre Tiny Bomb American Pilsner,3.5,/beer/wiseacre-tiny-bomb-american-pilsner/227864/97827/
@@ -336,14 +355,14 @@ Alchemist Heady Topper,3.4,/beer/alchemist-heady-topper/32329/50767/
 Fremont Field to Ferment - Citra,3.2,/beer/fremont-field-to-ferment--citra/452745/385424/
 Andechser Doppelbock Dunkel,4.2,/beer/andechser-doppelbock-dunkel/1147/31439/
 Alpine Beer Company Pure Hoppiness,3.8,/beer/alpine-beer-company-pure-hoppiness/18829/105677/
-Fat Head\x92s Hop Stalker Fresh Hop IPA,2.6,/beer/fat-heads-hop-stalker-fresh-hop-ipa/293365/10619/
-Bell\x92s Roundhouse IRA,3.7,/beer/bells-roundhouse-ira/99505/10619/
+Fat Head\xc2\x92s Hop Stalker Fresh Hop IPA,2.6,/beer/fat-heads-hop-stalker-fresh-hop-ipa/293365/10619/
+Bell\xc2\x92s Roundhouse IRA,3.7,/beer/bells-roundhouse-ira/99505/10619/
 Boulevard Ginger Lemon Radler,2.7,/beer/boulevard-ginger-lemon-radler/254155/79688/
 Otter Creek 25th Anniversary Double IPL,3.5,/beer/otter-creek-25th-anniversary-double-ipl/442822/29471/
 Firestone Walker Wookey Jack Black Rye IPA,3.6,/beer/firestone-walker-wookey-jack-black-rye-ipa/167331/9591/
 Flying Dog Heat Series: Ancho Lime Paradise Lager,2.9,/beer/flying-dog-heat-series-ancho-lime-paradise-lager/420612/79688/
-Arrogant Who You Callin\x92 Wussie,3.0,/beer/arrogant-who-you-callin-wussie/429477/388170/
-Bell\x92s Roundhouse IRA,3.3,/beer/bells-roundhouse-ira/99505/388170/
+Arrogant Who You Callin\xc2\x92 Wussie,3.0,/beer/arrogant-who-you-callin-wussie/429477/388170/
+Bell\xc2\x92s Roundhouse IRA,3.3,/beer/bells-roundhouse-ira/99505/388170/
 Trillium Itty Bitty Goose,3.5,/beer/trillium-itty-bitty-goose/275435/188026/
 Momokawa G Joy Junmai Ginjo Genshu Sake,3.4,/beer/momokawa-g-joy-junmai-ginjo-genshu-sake/54355/162228/
 Lagunitas Born Yesterday Pale Ale,3.5,/beer/lagunitas-born-yesterday-pale-ale/295821/9747/
@@ -357,7 +376,7 @@ Driftwood Entangled Hopfenweisse,4.3,/beer/driftwood-entangled-hopfenweisse/2978
 Sierra Nevada Coffee Stout,4.3,/beer/sierra-nevada-coffee-stout/292419/360930/
 Lagunitas Tuberfest,3.4,/beer/lagunitas-tuberfest/444171/3806/
 Dogfish Head 90 Minute Imperial IPA,4.2,/beer/dogfish-head-90-minute-imperial-ipa/10569/417821/
-Bell\x92s Kalamazoo Stout,4.4,/beer/bells-kalamazoo-stout/3209/431286/
+Bell\xc2\x92s Kalamazoo Stout,4.4,/beer/bells-kalamazoo-stout/3209/431286/
 Tallgrass Zombie Monkie,3.6,/beer/tallgrass-zombie-monkie/229763/363428/
 Founders PC Pils,3.4,/beer/founders-pc-pils/382690/95728/
 Founders Sumatra Mountain Brown,4.0,/beer/founders-sumatra-mountain-brown/135773/135175/
@@ -369,12 +388,12 @@ Russian River Defenestration,3.8,/beer/russian-river-defenestration/93471/40160/
 Urban Chestnut Oachkatzlschwoaf,3.7,/beer/urban-chestnut-oachkatzlschwoaf/154922/61754/
 AleSmith Double IPA,3.9,/beer/alesmith-double-ipa/2497/210986/
 Cigar City Jai Alai India Pale Ale,4.1,/beer/cigar-city-jai-alai-india-pale-ale/95103/7941/
-Fuller\x92s 1845,4.7,/beer/fullers-1845/294/424604/
+Fuller\xc2\x92s 1845,4.7,/beer/fullers-1845/294/424604/
 Deschutes Black Butte XXVIII,4.0,/beer/deschutes-black-butte-xxviii/432428/59428/
 The Kernel Export Stout London 1890,4.2,/beer/the-kernel-export-stout-london-1890/126190/415330/
 The Bruery Melange #14,4.4,/beer/the-bruery-melange-14/425053/77551/
-Jack\x92s Abby Copper Legend,3.6,/beer/jacks-abby-copper-legend/182391/24183/
-Rodenbach Caract\xe8re Rouge,4.3,/beer/rodenbach-caractere-rouge/158126/54417/
+Jack\xc2\x92s Abby Copper Legend,3.6,/beer/jacks-abby-copper-legend/182391/24183/
+Rodenbach Caract\xc3\xa8re Rouge,4.3,/beer/rodenbach-caractere-rouge/158126/54417/
 Peak Organic Super Fresh,4.0,/beer/peak-organic-super-fresh/357191/48110/
 New Belgium La Folie,3.7,/beer/new-belgium-la-folie/10513/243454/
 Founders Breakfast Stout,4.0,/beer/founders-breakfast-stout/14956/381941/
@@ -382,16 +401,16 @@ Stone Go To IPA,3.3,/beer/stone-go-to-ipa/253833/30799/
 Schneider Weisse Aventinus,4.0,/beer/schneider-weisse-aventinus/2224/413229/
 Franziskaner Hefe-Weissbier / Weissbier Naturtrub,4.2,/beer/franziskaner-hefe-weissbier--weissbier-naturtrub/1088/370486/
 Prairie Apple Brandy Barrel Noir,4.4,/beer/prairie-apple-brandy-barrel-noir/311784/361625/
-Stone Bastard\x92s Midnight Brunch,4.7,/beer/stone-bastards-midnight-brunch/414489/6661/
+Stone Bastard\xc2\x92s Midnight Brunch,4.7,/beer/stone-bastards-midnight-brunch/414489/6661/
 Stiegl Radler Grapefruit,3.2,/beer/stiegl-radler-grapefruit/105438/324362/
-Bell\x92s Two Hearted Ale,4.3,/beer/bells-two-hearted-ale/1502/316360/
+Bell\xc2\x92s Two Hearted Ale,4.3,/beer/bells-two-hearted-ale/1502/316360/
 Ballast Point Dead Ringer Oktoberfest,3.5,/beer/ballast-point-dead-ringer-oktoberfest/278843/70263/
 40ft Larger,3.8,/beer/40ft-larger/337533/36509/
 Cellarmaker Neon Nights ,4.0,/beer/cellarmaker-neon-nights/393887/127991/
 Karbach Krunkin Pumpkin,3.7,/beer/karbach-krunkin-pumpkin/188324/68527/
-Fuller\x92s Vintage Ale 2013,3.8,/beer/fullers-vintage-ale-2013/223320/17613/
+Fuller\xc2\x92s Vintage Ale 2013,3.8,/beer/fullers-vintage-ale-2013/223320/17613/
 The Bruery Poterie,4.3,/beer/the-bruery-poterie/172506/280235/
-Allagash Avanc\xe9,4.1,/beer/allagash-avance/69525/115950/
+Allagash Avanc\xc3\xa9,4.1,/beer/allagash-avance/69525/115950/
 De Dolle Stille Nacht Special Reserva 2005,3.3,/beer/de-dolle-stille-nacht-special-reserva-2005/59477/142513/
 La Rulles Estivale,3.9,/beer/la-rulles-estivale/48719/385070/
 Arrogant Bastard Ale,4.1,/beer/arrogant-bastard-ale/1315/130903/
@@ -405,7 +424,7 @@ Firestone Walker 18 &#40;XVIII Eighteenth Anniversary Ale&#41; ,4.1,/beer/firest
 Buxton Extra Porter,4.1,/beer/buxton-extra-porter/409056/232269/
 The Kernel Pale Ale Citra Centennial,3.3,/beer/the-kernel-pale-ale-citra-centennial/162431/79214/
 Evil Twin Imperial Biscotti Break,4.2,/beer/evil-twin-imperial-biscotti-break/168309/79214/
-Bell\x92s Hopslam,3.4,/beer/bells-hopslam/35488/79214/
+Bell\xc2\x92s Hopslam,3.4,/beer/bells-hopslam/35488/79214/
 Hill Farmstead Susan,3.7,/beer/hill-farmstead-susan/191994/115950/
 Hill Farmstead Damon,4.5,/beer/hill-farmstead-damon/142050/158283/
 Hill Farmstead Self-Reliance #1,4.4,/beer/hill-farmstead-self-reliance-1/427873/115950/
@@ -416,7 +435,7 @@ Schneider Weisse Aventinus,4.2,/beer/schneider-weisse-aventinus/2224/401339/
 Stone IPA &#40;India Pale Ale&#41;,3.0,/beer/stone-ipa-india-pale-ale/422/367775/
 Sierra Nevada Kellerweis Hefeweizen,3.6,/beer/sierra-nevada-kellerweis-hefeweizen/100383/325955/
 Welde Bourbon Barrel Bock,3.0,/beer/welde-bourbon-barrel-bock/320155/81835/
-Jack\x92s Abby Excess IPL,3.6,/beer/jacks-abby-excess-ipl/329280/108035/
+Jack\xc2\x92s Abby Excess IPL,3.6,/beer/jacks-abby-excess-ipl/329280/108035/
 Paulaner Hefe-Weissbier &#40;Hefe-Weizen&#41; &#40;5.5%&#41;,4.4,/beer/paulaner-hefe-weissbier-hefe-weizen-55/647/431241/
 Ballast Point Sculpin IPA,4.5,/beer/ballast-point-sculpin-ipa/50008/431241/
 Columbus Bodhi,3.7,/beer/columbus-bodhi/110184/158283/
@@ -424,13 +443,13 @@ Schneider Weisse Tap 5 Meine Hopfen-Weisse,4.5,/beer/schneider-weisse-tap-5-mein
 AleSmith IPA,3.7,/beer/alesmith-ipa/14396/323716/
 WeldWerks Juicy Bits,4.0,/beer/weldwerks-juicy-bits/405202/108216/
 Victory Prima Pils,3.5,/beer/victory-prima-pils/619/117914/
-Pyraser Hopfenpfl\xfccker Pils,3.4,/beer/pyraser-hopfenpflucker-pils/55080/366007/
+Pyraser Hopfenpfl\xc3\xbccker Pils,3.4,/beer/pyraser-hopfenpflucker-pils/55080/366007/
 Siren Vermont Tea Party,3.1,/beer/siren-vermont-tea-party/407686/81782/
 Hill Farmstead Aaron,4.5,/beer/hill-farmstead-aaron/284884/132930/
 The Livery Bourbon Barrel Aged Wheat Trippelbock,4.2,/beer/the-livery-bourbon-barrel-aged-wheat-trippelbock/49981/132930/
 Lost Abbey Box Set: Track #10 &#40;Bat out of Hell&#41;,4.6,/beer/lost-abbey-box-set-track-10-bat-out-of-hell/160461/325955/
 Buxton Imperial Black,4.1,/beer/buxton-imperial-black/161898/427319/
-Hoppin\x92 Frog Tower Tuesday: Infusion A - Coffee Porter,4.4,/beer/hoppin-frog-tower-tuesday-infusion-a--coffee-porter/261765/268700/
+Hoppin\xc2\x92 Frog Tower Tuesday: Infusion A - Coffee Porter,4.4,/beer/hoppin-frog-tower-tuesday-infusion-a--coffee-porter/261765/268700/
 Alchemist Focal Banger,4.3,/beer/alchemist-focal-banger/100846/325955/
 Andechser Weissbier Dunkel,3.4,/beer/andechser-weissbier-dunkel/6003/427319/
 Maine Beer Lunch,3.7,/beer/maine-beer-lunch/145241/268700/
@@ -445,7 +464,7 @@ Unibroue La Fin du Monde,4.0,/beer/unibroue-la-fin-du-monde/1094/95853/
 BAD Comfortably Numb,3.3,/beer/bad-comfortably-numb/292344/262336/
 Beavertown / Boneyard Bloody Notorious,3.6,/beer/beavertown--boneyard-bloody-notorious/426167/30799/
 Rogue Farms Fresh Roast Ale,3.5,/beer/rogue-farms-fresh-roast-ale/214272/41169/
-Bell\x92s Roundhouse IRA,3.8,/beer/bells-roundhouse-ira/99505/221467/
+Bell\xc2\x92s Roundhouse IRA,3.8,/beer/bells-roundhouse-ira/99505/221467/
 Fremont Field to Ferment - Citra,4.1,/beer/fremont-field-to-ferment--citra/452745/247503/
 New Glarus Moon Man No Coast Pale Ale,3.8,/beer/new-glarus-moon-man-no-coast-pale-ale/118767/95615/
 Superstition Marion Mead - Still,4.0,/beer/superstition-marion-mead--still/211340/31748/
@@ -458,13 +477,13 @@ Sweetwater Hash Brown,3.8,/beer/sweetwater-hash-brown/356281/321344/
 Indeed Dandy Lager,3.9,/beer/indeed-dandy-lager/333675/54824/
 Saugatuck Barrel Aged Neapolitan Milk Stout,3.9,/beer/saugatuck-barrel-aged-neapolitan-milk-stout/253614/408414/
 Monkish Haiku De Saison,3.6,/beer/monkish-haiku-de-saison/368328/129822/
-Pilsner Urquell Nefiltrovan\xfd,4.3,/beer/pilsner-urquell-nefiltrovany/44956/86560/
-Pilsner Urquell Nefiltrovan\xfd,4.0,/beer/pilsner-urquell-nefiltrovany/44956/58936/
+Pilsner Urquell Nefiltrovan\xc3\xbd,4.3,/beer/pilsner-urquell-nefiltrovany/44956/86560/
+Pilsner Urquell Nefiltrovan\xc3\xbd,4.0,/beer/pilsner-urquell-nefiltrovany/44956/58936/
 Great Notion Double Stack Northwest Breakfast Stout,4.0,/beer/great-notion-double-stack-northwest-breakfast-stout/396436/80641/
 Unibroue Quelque Chose,3.9,/beer/unibroue-quelque-chose/1924/104498/
 Sierra Nevada Hoptimum,4.0,/beer/sierra-nevada-hoptimum/117825/348022/
 Tired Hands MagoTago,4.0,/beer/tired-hands-magotago/205427/31748/
-Bell\x92s Special Double Cream Stout,4.0,/beer/bells-special-double-cream-stout/3212/67064/
+Bell\xc2\x92s Special Double Cream Stout,4.0,/beer/bells-special-double-cream-stout/3212/67064/
 Avery Pump[KY]n,3.8,/beer/avery-pumpkyn/287723/80641/
 Perrin No Rules Vietnamese Porter,3.2,/beer/perrin-no-rules-vietnamese-porter/351067/104498/
 Unibroue Quelque Chose,4.0,/beer/unibroue-quelque-chose/1924/229832/
@@ -472,9 +491,9 @@ Unibroue Quelque Chose,3.7,/beer/unibroue-quelque-chose/1924/104537/
 Half Acre Akari Shogun,3.7,/beer/half-acre-akari-shogun/175388/80641/
 Trillium Scaled,4.1,/beer/trillium-scaled/377675/80641/
 Cloudwater / Burning Sky Old Garde &#40;Red Wine Barrel Aged&#41;,3.0,/beer/cloudwater--burning-sky-old-garde-red-wine-barrel-aged/418382/32589/
-Jack\x92s Abby Excess IPL,3.9,/beer/jacks-abby-excess-ipl/329280/80641/
+Jack\xc2\x92s Abby Excess IPL,3.9,/beer/jacks-abby-excess-ipl/329280/80641/
 Unibroue Quelque Chose,4.0,/beer/unibroue-quelque-chose/1924/339387/
-Sierra Nevada / Mahrs Br\xe4u Oktoberfest &#40;2016&#41;,3.0,/beer/sierra-nevada--mahrs-brau-oktoberfest-2016/439036/293725/
+Sierra Nevada / Mahrs Br\xc3\xa4u Oktoberfest &#40;2016&#41;,3.0,/beer/sierra-nevada--mahrs-brau-oktoberfest-2016/439036/293725/
 Ballast Point Victory at Sea ,4.7,/beer/ballast-point-victory-at-sea/100542/397860/
 Auval Super A Double IPA,4.5,/beer/auval-super-a-double-ipa/384097/345657/
 Tired Hands Communication is the Key Lime Pie,4.1,/beer/tired-hands-communication-is-the-key-lime-pie/236925/31748/
@@ -484,7 +503,7 @@ Monkish Haiku De Saison,2.9,/beer/monkish-haiku-de-saison/368328/11905/
 Trillium / Amager Sigtebrod,4.2,/beer/trillium--amager-sigtebrod/454740/104498/
 Perrin Black Goat,3.5,/beer/perrin-black-goat/203015/101290/
 Ommegang Hop House,3.5,/beer/ommegang-hop-house/242426/158283/
-Avery Uncle Jacob\x92s Stout,4.4,/beer/avery-uncle-jacobs-stout/167223/61944/
+Avery Uncle Jacob\xc2\x92s Stout,4.4,/beer/avery-uncle-jacobs-stout/167223/61944/
 Trillium / Amager Sigtebrod,4.0,/beer/trillium--amager-sigtebrod/454740/104537/
 Trillium / Amager Sigtebrod,4.1,/beer/trillium--amager-sigtebrod/454740/229832/
 Stone IPA &#40;India Pale Ale&#41;,3.1,/beer/stone-ipa-india-pale-ale/422/431216/
@@ -501,7 +520,7 @@ Perrin No Rules Vietnamese Porter,3.0,/beer/perrin-no-rules-vietnamese-porter/35
 Lagunitas Tuberfest,3.1,/beer/lagunitas-tuberfest/444171/6738/
 Trillium Melcher Street IPA,3.6,/beer/trillium-melcher-street-ipa/275885/104307/
 North Coast Old Rasputin &#40;Bourbon Barrel&#41;,4.1,/beer/north-coast-old-rasputin-bourbon-barrel/71101/85722/
-De Dolle Dulle Teve 10\xba &#40;Mad Bitch&#41;,3.5,/beer/de-dolle-dulle-teve-10-mad-bitch/6875/321344/
+De Dolle Dulle Teve 10\xc2\xba &#40;Mad Bitch&#41;,3.5,/beer/de-dolle-dulle-teve-10-mad-bitch/6875/321344/
 Squatters Live & Let Live Kristallweizen,3.6,/beer/squatters-live-let-live-kristallweizen/427599/10924/
 Lagunitas Born Again Yesterday ,3.5,/beer/lagunitas-born-again-yesterday/425060/121903/
 Three Floyds Wigsplitter,3.4,/beer/three-floyds-wigsplitter/342218/79809/
@@ -524,15 +543,13 @@ Driftwood Fat Tug IPA,3.6,/beer/driftwood-fat-tug-ipa/133091/331396/
 The Bruery Melange #14,4.2,/beer/the-bruery-melange-14/425053/7034/
 Trillium Mettle,3.6,/beer/trillium-mettle/256288/104307/
 Siren Vermont Tea Party,3.3,/beer/siren-vermont-tea-party/407686/102374/
-Central Waters Brewer\x92s Reserve Bourbon Barrel Scotch Ale,4.0,/beer/central-waters-brewers-reserve-bourbon-barrel-scotch-ale/63097/99747/
-Baladin Xyauy\xf9 Fum\xe9 &#40;Islay Whisky&#41;,4.5,/beer/baladin-xyauyu-fume-islay-whisky/188066/354804/
+Central Waters Brewer\xc2\x92s Reserve Bourbon Barrel Scotch Ale,4.0,/beer/central-waters-brewers-reserve-bourbon-barrel-scotch-ale/63097/99747/
+Baladin Xyauy\xc3\xb9 Fum\xc3\xa9 &#40;Islay Whisky&#41;,4.5,/beer/baladin-xyauyu-fume-islay-whisky/188066/354804/
 Epic / DC Brau Fermentation Without Representation,3.6,/beer/epic--dc-brau-fermentation-without-representation/158067/68931/
 La Cumbre Full Nelson,4.2,/beer/la-cumbre-full-nelson/197191/221467/
-Westbrook Key Lime Pie Gose,3.7,/beer/westbrook-key-lime-pie-gose/415994/173938/
 Alchemist Heady Topper,3.6,/beer/alchemist-heady-topper/32329/8508/
 Firestone Walker Stickee Monkee,4.2,/beer/firestone-walker-stickee-monkee/133381/231336/
 Millstone Cellars Hopvine,3.8,/beer/millstone-cellars-hopvine/240264/104498/
-Westbrook Key Lime Pie Gose,3.5,/beer/westbrook-key-lime-pie-gose/415994/313800/
 Founders Imperial Stout,3.4,/beer/founders-imperial-stout/5933/418698/
 Superstition Straw Berry White,4.5,/beer/superstition-straw-berry-white/335470/173938/
 Superstition Straw Berry White,4.6,/beer/superstition-straw-berry-white/335470/105312/
@@ -549,7 +566,7 @@ Lost Abbey The Angels Share,4.1,/beer/lost-abbey-the-angels-share/64975/288109/
 Surly Blakkr,4.0,/beer/surly-blakkr/252611/95204/
 Millstone Cellars Hopvine,4.0,/beer/millstone-cellars-hopvine/240264/339387/
 Marz Jungle Boogie,3.9,/beer/marz-jungle-boogie/303531/151324/
-Ayinger Oktober Fest-M\xe4rzen,4.0,/beer/ayinger-oktober-fest-marzen/2718/404415/
+Ayinger Oktober Fest-M\xc3\xa4rzen,4.0,/beer/ayinger-oktober-fest-marzen/2718/404415/
 Boombox / Machine Pablo Esco Gnar,3.9,/beer/boombox--machine-pablo-esco-gnar/454620/104537/
 Founders PC Pils,3.9,/beer/founders-pc-pils/382690/151324/
 Ballast Point Dead Ringer Oktoberfest,2.8,/beer/ballast-point-dead-ringer-oktoberfest/278843/377571/
@@ -573,13 +590,13 @@ Knee Deep Breaking Bud IPA,3.1,/beer/knee-deep-breaking-bud-ipa/308727/55364/
 Fremont Brew 1000,3.7,/beer/fremont-brew-1000/270858/126758/
 Fremont Brew 1000,4.2,/beer/fremont-brew-1000/270858/229832/
 Great Divide Yeti Imperial Stout,4.3,/beer/great-divide-yeti-imperial-stout/25082/298979/
-Heavy Seas Uncharted Waters: The Great\x92ER Pumpkin,3.8,/beer/heavy-seas-uncharted-waters-the-greater-pumpkin/114628/193614/
-Fuller\x92s 1845,3.9,/beer/fullers-1845/294/398597/
-Fuller\x92s ESB &#40;Bottle/Keg&#41;,4.7,/beer/fullers-esb-bottle-keg/290/367394/
+Heavy Seas Uncharted Waters: The Great\xc2\x92ER Pumpkin,3.8,/beer/heavy-seas-uncharted-waters-the-greater-pumpkin/114628/193614/
+Fuller\xc2\x92s 1845,3.9,/beer/fullers-1845/294/398597/
+Fuller\xc2\x92s ESB &#40;Bottle/Keg&#41;,4.7,/beer/fullers-esb-bottle-keg/290/367394/
 Oskar Blues Hotbox Coffee Porter,3.7,/beer/oskar-blues-hotbox-coffee-porter/132098/50835/
 Avery Rumpkin,3.7,/beer/avery-rumpkin/131832/289555/
 Trillium Sleeper Street IPA - Double Dry Hopped,3.9,/beer/trillium-sleeper-street-ipa--double-dry-hopped/314822/51030/
-Dieu du Ciel Solstice d\x92\xc9t\xe9 aux Framboises,3.9,/beer/dieu-du-ciel-solstice-dete-aux-framboises/8116/60294/
+Dieu du Ciel Solstice d\xc2\x92\xc3\x89t\xc3\xa9 aux Framboises,3.9,/beer/dieu-du-ciel-solstice-dete-aux-framboises/8116/60294/
 Les Trois Mousquetaires G.C. Porter Baltique &#40;Bourbon & Brandy&#41;,3.7,/beer/les-trois-mousquetaires-gc-porter-baltique-bourbon-brandy/230352/80551/
 Cycle Barrel-Aged Hazelnut Imperial Stout,3.4,/beer/cycle-barrel-aged-hazelnut-imperial-stout/376070/104498/
 Southern Tier Rum Barrel Aged Pumking,3.9,/beer/southern-tier-rum-barrel-aged-pumking/300262/45064/
@@ -588,27 +605,27 @@ Cycle Barrel-Aged Hazelnut Imperial Stout,3.7,/beer/cycle-barrel-aged-hazelnut-i
 Cycle Barrel-Aged Hazelnut Imperial Stout,4.4,/beer/cycle-barrel-aged-hazelnut-imperial-stout/376070/339387/
 Cycle Barrel-Aged Hazelnut Imperial Stout,4.2,/beer/cycle-barrel-aged-hazelnut-imperial-stout/376070/79809/
 Cycle Barrel-Aged Hazelnut Imperial Stout,4.4,/beer/cycle-barrel-aged-hazelnut-imperial-stout/376070/229832/
-Tired Hands Okt\xfcberfest,3.7,/beer/tired-hands-oktuberfest/186253/27740/
+Tired Hands Okt\xc3\xbcberfest,3.7,/beer/tired-hands-oktuberfest/186253/27740/
 Stillwater Gose Gone Wild,4.0,/beer/stillwater-gose-gone-wild/266266/5855/
-Buxton Jacob\x92s Ladder,3.6,/beer/buxton-jacobs-ladder/221709/235647/
+Buxton Jacob\xc2\x92s Ladder,3.6,/beer/buxton-jacobs-ladder/221709/235647/
 Lagunitas Born Yesterday Pale Ale,4.3,/beer/lagunitas-born-yesterday-pale-ale/295821/252091/
 Trillium Itty Bitty Goose,3.7,/beer/trillium-itty-bitty-goose/275435/51030/
 Uerige Doppel Sticke,4.0,/beer/uerige-doppel-sticke/46158/333213/
 Surly Blakkr,3.8,/beer/surly-blakkr/252611/271772/
 Trillium Mettle,3.9,/beer/trillium-mettle/256288/51030/
-Chimay Bleue &#40;Blue&#41; / Grande R\xe9serve,3.5,/beer/chimay-bleue-blue--grande-reserve/53/400129/
+Chimay Bleue &#40;Blue&#41; / Grande R\xc3\xa9serve,3.5,/beer/chimay-bleue-blue--grande-reserve/53/400129/
 Aecht Schlenkerla Rauchbier Urbock,4.4,/beer/aecht-schlenkerla-rauchbier-urbock/6349/362848/
-Funky Buddha Wide Awake It\x92s Morning,4.0,/beer/funky-buddha-wide-awake-its-morning/148014/126758/
-Funky Buddha Wide Awake It\x92s Morning,3.7,/beer/funky-buddha-wide-awake-its-morning/148014/104498/
+Funky Buddha Wide Awake It\xc2\x92s Morning,4.0,/beer/funky-buddha-wide-awake-its-morning/148014/126758/
+Funky Buddha Wide Awake It\xc2\x92s Morning,3.7,/beer/funky-buddha-wide-awake-its-morning/148014/104498/
 Four Winds Nectarous,4.0,/beer/four-winds-nectarous/254840/5855/
-Jolly Pumpkin Bi\xe8re de Mars,2.5,/beer/jolly-pumpkin-biere-de-mars/47030/51287/
-Funky Buddha Wide Awake It\x92s Morning,4.2,/beer/funky-buddha-wide-awake-its-morning/148014/104537/
-Funky Buddha Wide Awake It\x92s Morning,4.0,/beer/funky-buddha-wide-awake-its-morning/148014/229832/
-Funky Buddha Wide Awake It\x92s Morning,4.2,/beer/funky-buddha-wide-awake-its-morning/148014/339387/
-Jolly Pumpkin Bi\xe8re de Mars,2.7,/beer/jolly-pumpkin-biere-de-mars/47030/136546/
+Jolly Pumpkin Bi\xc3\xa8re de Mars,2.5,/beer/jolly-pumpkin-biere-de-mars/47030/51287/
+Funky Buddha Wide Awake It\xc2\x92s Morning,4.2,/beer/funky-buddha-wide-awake-its-morning/148014/104537/
+Funky Buddha Wide Awake It\xc2\x92s Morning,4.0,/beer/funky-buddha-wide-awake-its-morning/148014/229832/
+Funky Buddha Wide Awake It\xc2\x92s Morning,4.2,/beer/funky-buddha-wide-awake-its-morning/148014/339387/
+Jolly Pumpkin Bi\xc3\xa8re de Mars,2.7,/beer/jolly-pumpkin-biere-de-mars/47030/136546/
 Boulevard Smokestack Series: Saison-Brett,4.0,/beer/boulevard-smokestack-series-saison-brett/61449/105312/
 Boulevard Smokestack Series: Saison-Brett,3.9,/beer/boulevard-smokestack-series-saison-brett/61449/173938/
-Jolly Pumpkin Bi\xe8re de Mars,3.5,/beer/jolly-pumpkin-biere-de-mars/47030/286327/
+Jolly Pumpkin Bi\xc3\xa8re de Mars,3.5,/beer/jolly-pumpkin-biere-de-mars/47030/286327/
 Boulevard Smokestack Series: Saison-Brett,4.0,/beer/boulevard-smokestack-series-saison-brett/61449/313800/
 Goose Island Bourbon County Stout,4.5,/beer/goose-island-bourbon-county-stout/8909/220461/
 Schneider Weisse Tap 5 Meine Hopfen-Weisse,3.3,/beer/schneider-weisse-tap-5-meine-hopfen-weisse/75466/9747/
@@ -616,9 +633,9 @@ Trillium Scaled Up,4.0,/beer/trillium-scaled-up/382827/104537/
 Beavertown Gamma Ray  ,3.5,/beer/beavertown-gamma-ray/189363/100801/
 Trillium Scaled Up,4.3,/beer/trillium-scaled-up/382827/104498/
 Trillium Scaled Up,4.2,/beer/trillium-scaled-up/382827/126758/
-Moor So\x92Hop,3.7,/beer/moor-sohop/164416/281573/
+Moor So\xc2\x92Hop,3.7,/beer/moor-sohop/164416/281573/
 Trillium Scaled Up,4.3,/beer/trillium-scaled-up/382827/339387/
-York Centurion\x92s Ghost Ale &#40;Cask&#41;,3.5,/beer/york-centurions-ghost-ale-cask/45131/263589/
+York Centurion\xc2\x92s Ghost Ale &#40;Cask&#41;,3.5,/beer/york-centurions-ghost-ale-cask/45131/263589/
 Trillium Scaled Up,4.2,/beer/trillium-scaled-up/382827/229832/
 Stone IPA &#40;India Pale Ale&#41;,2.9,/beer/stone-ipa-india-pale-ale/422/403827/
 Ayinger Celebrator Doppelbock,4.3,/beer/ayinger-celebrator-doppelbock/1090/247248/
@@ -628,13 +645,13 @@ Uerige Doppel Sticke,4.0,/beer/uerige-doppel-sticke/46158/322960/
 Lagunitas Born Yesterday Pale Ale,4.2,/beer/lagunitas-born-yesterday-pale-ale/295821/13412/
 Franziskaner Hefe-Weissbier / Weissbier Naturtrub,3.2,/beer/franziskaner-hefe-weissbier--weissbier-naturtrub/1088/83890/
 Bissell Brothers Swish,4.0,/beer/bissell-brothers-swish/298864/107313/
-Schramm\x92s Red Agnes,4.1,/beer/schramms-red-agnes/407785/128270/
+Schramm\xc2\x92s Red Agnes,4.1,/beer/schramms-red-agnes/407785/128270/
 Stone Imperial Russian Stout,4.0,/beer/stone-imperial-russian-stout/4315/285335/
 The Bruery Melange #14,3.6,/beer/the-bruery-melange-14/425053/35022/
 Hill Farmstead Sumner,3.9,/beer/hill-farmstead-sumner/409339/104537/
 Hill Farmstead Sumner,3.9,/beer/hill-farmstead-sumner/409339/229832/
 Siren / Cigar City Caribbean Chocolate Cake &#40;Barrel Aged&#41;,4.2,/beer/siren--cigar-city-caribbean-chocolate-cake-barrel-aged/419051/245444/
-Bell\x92s Roundhouse IRA,3.5,/beer/bells-roundhouse-ira/99505/124170/
+Bell\xc2\x92s Roundhouse IRA,3.5,/beer/bells-roundhouse-ira/99505/124170/
 AleSmith Speedway Stout,5.0,/beer/alesmith-speedway-stout/14232/424105/
 AleSmith Evil Dead Red,4.1,/beer/alesmith-evil-dead-red/2496/424105/
 Ayinger Altbairisch Dunkel,3.5,/beer/ayinger-altbairisch-dunkel/2019/112615/
@@ -647,18 +664,18 @@ Trillium Itty Bitty Goose,3.6,/beer/trillium-itty-bitty-goose/275435/339387/
 Auval Super A Double IPA,4.5,/beer/auval-super-a-double-ipa/384097/6938/
 Trillium Itty Bitty Goose,3.6,/beer/trillium-itty-bitty-goose/275435/79809/
 Siren / Cigar City Caribbean Chocolate Cake &#40;Barrel Aged&#41;,3.9,/beer/siren--cigar-city-caribbean-chocolate-cake-barrel-aged/419051/19032/
-Bell\x92s Expedition Stout,4.3,/beer/bells-expedition-stout/3214/246410/
+Bell\xc2\x92s Expedition Stout,4.3,/beer/bells-expedition-stout/3214/246410/
 Sierra Nevada Hoptimum,3.7,/beer/sierra-nevada-hoptimum/117825/227834/
-Bell\x92s Expedition Stout,4.3,/beer/bells-expedition-stout/3214/223863/
+Bell\xc2\x92s Expedition Stout,4.3,/beer/bells-expedition-stout/3214/223863/
 Anchorage Galaxy White IPA,3.4,/beer/anchorage-galaxy-white-ipa/161579/68142/
 Paulaner Hefe-Weissbier &#40;Hefe-Weizen&#41; &#40;5.5%&#41;,4.1,/beer/paulaner-hefe-weissbier-hefe-weizen-55/647/428988/
 Uerige Doppel Sticke,4.0,/beer/uerige-doppel-sticke/46158/247116/
-Dieu du Ciel L\x92Herbe \xe0 D\xe9tourne,4.3,/beer/dieu-du-ciel-lherbe-a-detourne/123975/371540/
+Dieu du Ciel L\xc2\x92Herbe \xc3\xa0 D\xc3\xa9tourne,4.3,/beer/dieu-du-ciel-lherbe-a-detourne/123975/371540/
 The Bruery / Maine Beer Fourthmeal,3.7,/beer/the-bruery--maine-beer-fourthmeal/377250/59428/
 Aecht Schlenkerla Helles Lagerbier,3.4,/beer/aecht-schlenkerla-helles-lagerbier/16402/206956/
 Avery Pump[KY]n,4.0,/beer/avery-pumpkyn/287723/128270/
 Anchor Winter Wheat,3.3,/beer/anchor-winter-wheat/295879/79214/
-Pilsner Urquell Nefiltrovan\xfd,3.8,/beer/pilsner-urquell-nefiltrovany/44956/41169/
+Pilsner Urquell Nefiltrovan\xc3\xbd,3.8,/beer/pilsner-urquell-nefiltrovany/44956/41169/
 Founders Sumatra Mountain Brown,3.9,/beer/founders-sumatra-mountain-brown/135773/219974/
 Evil Twin Bikini Beer,3.0,/beer/evil-twin-bikini-beer/149843/424398/
 Capital Oktoberfest,3.5,/beer/capital-oktoberfest/860/104241/
@@ -685,31 +702,31 @@ Hill Farmstead Susan,3.7,/beer/hill-farmstead-susan/191994/138565/
 Weird Beard Dark Hopfler,2.6,/beer/weird-beard-dark-hopfler/257261/42530/
 Rogue Dead Guy Ale,3.4,/beer/rogue-dead-guy-ale/589/32215/
 Founders Centennial IPA,3.4,/beer/founders-centennial-ipa/3168/140883/
-Jolly Pumpkin Bi\xe8re de Mars,3.9,/beer/jolly-pumpkin-biere-de-mars/47030/274310/
+Jolly Pumpkin Bi\xc3\xa8re de Mars,3.9,/beer/jolly-pumpkin-biere-de-mars/47030/274310/
 Schneider Weisse Aventinus,3.7,/beer/schneider-weisse-aventinus/2224/385469/
 Founders Imperial Stout,4.3,/beer/founders-imperial-stout/5933/429670/
-Stone Bastard\x92s Midnight Brunch,3.9,/beer/stone-bastards-midnight-brunch/414489/327245/
+Stone Bastard\xc2\x92s Midnight Brunch,3.9,/beer/stone-bastards-midnight-brunch/414489/327245/
 Crooked Stave Table Beer,3.8,/beer/crooked-stave-table-beer/302799/79214/
 Uinta Fest Helles,3.7,/beer/uinta-fest-helles/432004/58936/
 Stone IPA &#40;India Pale Ale&#41;,4.0,/beer/stone-ipa-india-pale-ale/422/420774/
 Superstition Aphrodisia Pyment - Cabernet/Syrah,4.4,/beer/superstition-aphrodisia-pyment--cabernet-syrah/260182/4953/
 Elysian Punkuccino Coffee Pumpkin Ale,3.9,/beer/elysian-punkuccino-coffee-pumpkin-ale/232495/22611/
 Charlevoix Vache Folle ESB,2.9,/beer/charlevoix-vache-folle-esb/33047/229832/
-Jack\x92s Abby Excess IPL,4.2,/beer/jacks-abby-excess-ipl/329280/167559/
+Jack\xc2\x92s Abby Excess IPL,4.2,/beer/jacks-abby-excess-ipl/329280/167559/
 Tree House Sap &#40;December 2015 - &#41;,2.7,/beer/tree-house-sap-december-2015--/385871/294791/
 Driftwood Raised by Wolves IPA,4.0,/beer/driftwood-raised-by-wolves-ipa/353995/348726/
-J.K.\x92s Cuv\xe9e Winterruption Farmhouse Hard Cider,3.8,/beer/jks-cuvee-winterruption-farmhouse-hard-cider/113726/9776/
+J.K.\xc2\x92s Cuv\xc3\xa9e Winterruption Farmhouse Hard Cider,3.8,/beer/jks-cuvee-winterruption-farmhouse-hard-cider/113726/9776/
 Unibroue La Fin du Monde,3.9,/beer/unibroue-la-fin-du-monde/1094/420760/
-Fat Head\x92s IBUsive IPA,4.0,/beer/fat-heads-ibusive-ipa/201827/96987/
+Fat Head\xc2\x92s IBUsive IPA,4.0,/beer/fat-heads-ibusive-ipa/201827/96987/
 Lagunitas Born Again Yesterday ,4.0,/beer/lagunitas-born-again-yesterday/425060/211077/
 Prairie Apple Brandy Barrel Noir,3.8,/beer/prairie-apple-brandy-barrel-noir/311784/97698/
 Ballast Point Grapefruit Sculpin,4.2,/beer/ballast-point-grapefruit-sculpin/213365/22435/
 New Glarus Raspberry Tart,4.2,/beer/new-glarus-raspberry-tart/7686/379598/
 Cambridge Morning Dew,3.8,/beer/cambridge-morning-dew/283510/221467/
-Lawson\x92s Finest Chinookerd IPA,4.0,/beer/lawsons-finest-chinookerd-ipa/92737/58060/
+Lawson\xc2\x92s Finest Chinookerd IPA,4.0,/beer/lawsons-finest-chinookerd-ipa/92737/58060/
 Surly SurlyFest,3.4,/beer/surly-surlyfest/64349/379598/
 Rodenbach Alexander,3.5,/beer/rodenbach-alexander/1195/247503/
-Ayinger Oktober Fest-M\xe4rzen,3.4,/beer/ayinger-oktober-fest-marzen/2718/314229/
+Ayinger Oktober Fest-M\xc3\xa4rzen,3.4,/beer/ayinger-oktober-fest-marzen/2718/314229/
 Stone 20th Anniversary Encore Series: 02.02.02 Vertical Epic Ale,4.0,/beer/stone-20th-anniversary-encore-series-020202-vertical-epic-ale/12115/131116/
 Firestone Walker Parabola,4.4,/beer/firestone-walker-parabola/60246/110664/
 Trillium / Amager Sigtebrod,4.0,/beer/trillium--amager-sigtebrod/454740/170314/
@@ -718,7 +735,7 @@ Trillium Scaled Up,4.1,/beer/trillium-scaled-up/382827/87951/
 Trillium Itty Bitty Goose,4.0,/beer/trillium-itty-bitty-goose/275435/170314/
 Modern Times City of the Dead,3.1,/beer/modern-times-city-of-the-dead/312152/137198/
 Oskar Blues / Shamrock Death By Coconut,3.5,/beer/oskar-blues--shamrock-death-by-coconut/261714/110664/
-Fat Head\x92s IBUsive IPA,3.8,/beer/fat-heads-ibusive-ipa/201827/11116/
+Fat Head\xc2\x92s IBUsive IPA,3.8,/beer/fat-heads-ibusive-ipa/201827/11116/
 Trillium Vicinity,3.7,/beer/trillium-vicinity/311024/87951/
 Oskar Blues Hotbox Coffee Porter,3.7,/beer/oskar-blues-hotbox-coffee-porter/132098/162904/
 Lagunitas Born Yesterday Pale Ale,3.7,/beer/lagunitas-born-yesterday-pale-ale/295821/213063/
@@ -728,29 +745,29 @@ Cigar City Maduro Brown Ale - Vanilla,3.8,/beer/cigar-city-maduro-brown-ale--van
 Arrogant Bastard Ale,3.8,/beer/arrogant-bastard-ale/1315/146047/
 Founders Harvest Ale,3.2,/beer/founders-harvest-ale/40277/96390/
 Modern Times City of the Dead,3.8,/beer/modern-times-city-of-the-dead/312152/236434/
-Fuller\x92s London Porter &#40;Bottle/Keg&#41;,3.9,/beer/fullers-london-porter-bottle-keg/303/56358/
+Fuller\xc2\x92s London Porter &#40;Bottle/Keg&#41;,3.9,/beer/fullers-london-porter-bottle-keg/303/56358/
 Uinta Fest Helles,3.6,/beer/uinta-fest-helles/432004/26853/
 AleSmith Double IPA,4.0,/beer/alesmith-double-ipa/2497/251634/
-Lawson\x92s Finest Super Session IPA #2,3.7,/beer/lawsons-finest-super-session-ipa-2/274596/57058/
+Lawson\xc2\x92s Finest Super Session IPA #2,3.7,/beer/lawsons-finest-super-session-ipa-2/274596/57058/
 Southern Tier Rum Barrel Aged Pumking,4.0,/beer/southern-tier-rum-barrel-aged-pumking/300262/67955/
-Bell\x92s Roundhouse IRA,3.7,/beer/bells-roundhouse-ira/99505/212271/
+Bell\xc2\x92s Roundhouse IRA,3.7,/beer/bells-roundhouse-ira/99505/212271/
 Victory HopDevil,4.8,/beer/victory-hopdevil/618/431121/
 New Belgium 1554 Enlightened Black Lager,3.2,/beer/new-belgium-1554-enlightened-black-lager/1266/377571/
-Bell\x92s Roundhouse IRA,3.4,/beer/bells-roundhouse-ira/99505/149446/
-Tr\xf6egs HopBack Amber Ale,5.0,/beer/troegs-hopback-amber-ale/17495/431121/
+Bell\xc2\x92s Roundhouse IRA,3.4,/beer/bells-roundhouse-ira/99505/149446/
+Tr\xc3\xb6egs HopBack Amber Ale,5.0,/beer/troegs-hopback-amber-ale/17495/431121/
 Trillium Stillings Street IPA,4.1,/beer/trillium-stillings-street-ipa/444497/72187/
 Rogue HazelNut Brown Nectar,3.9,/beer/rogue-hazelnut-brown-nectar/585/413787/
 Stone 20th Anniversary Encore Series: 02.02.02 Vertical Epic Ale,3.7,/beer/stone-20th-anniversary-encore-series-020202-vertical-epic-ale/12115/233969/
 Bear Republic Racer 5 IPA,3.9,/beer/bear-republic-racer-5-ipa/1608/273837/
-Chimay Bleue &#40;Blue&#41; / Grande R\xe9serve,5.0,/beer/chimay-bleue-blue--grande-reserve/53/430376/
+Chimay Bleue &#40;Blue&#41; / Grande R\xc3\xa9serve,5.0,/beer/chimay-bleue-blue--grande-reserve/53/430376/
 Lagunitas Born Yesterday Pale Ale,4.5,/beer/lagunitas-born-yesterday-pale-ale/295821/26399/
 Central Waters Headless Heron,4.4,/beer/central-waters-headless-heron/291246/78440/
 Ballast Point Dead Ringer Oktoberfest,3.5,/beer/ballast-point-dead-ringer-oktoberfest/278843/70460/
-Sierra Nevada / Mahrs Br\xe4u Oktoberfest &#40;2016&#41;,3.0,/beer/sierra-nevada--mahrs-brau-oktoberfest-2016/439036/365505/
+Sierra Nevada / Mahrs Br\xc3\xa4u Oktoberfest &#40;2016&#41;,3.0,/beer/sierra-nevada--mahrs-brau-oktoberfest-2016/439036/365505/
 AleSmith Evil Dead Red,3.6,/beer/alesmith-evil-dead-red/2496/96358/
-Dieu du Ciel Solstice d\x92Hiver R\xe9serve Sp\xe9ciale &#40;Oak Aged - Bourbon&#41;,3.8,/beer/dieu-du-ciel-solstice-dhiver-reserve-speciale-oak-aged--bourbon/117462/139704/
+Dieu du Ciel Solstice d\xc2\x92Hiver R\xc3\xa9serve Sp\xc3\xa9ciale &#40;Oak Aged - Bourbon&#41;,3.8,/beer/dieu-du-ciel-solstice-dhiver-reserve-speciale-oak-aged--bourbon/117462/139704/
 Aecht Schlenkerla Rauchbier Urbock,3.8,/beer/aecht-schlenkerla-rauchbier-urbock/6349/394218/
-Central Waters Brewer\x92s Reserve Bourbon Barrel Scotch Ale,4.2,/beer/central-waters-brewers-reserve-bourbon-barrel-scotch-ale/63097/216134/
+Central Waters Brewer\xc2\x92s Reserve Bourbon Barrel Scotch Ale,4.2,/beer/central-waters-brewers-reserve-bourbon-barrel-scotch-ale/63097/216134/
 Melvin Hubert MPA,3.3,/beer/melvin-hubert-mpa/291975/108216/
 Night Shift Awake,3.8,/beer/night-shift-awake/361859/231336/
 Founders Backwoods Bastard,4.7,/beer/founders-backwoods-bastard/69624/415813/
@@ -764,7 +781,7 @@ Wicked Weed Medora Blackberry Raspberry Sour,4.1,/beer/wicked-weed-medora-blackb
 Great Divide Yeti Imperial Stout,4.2,/beer/great-divide-yeti-imperial-stout/25082/88166/
 Sierra Nevada Harvest Wet Hop IPA - Northern Hemisphere,3.9,/beer/sierra-nevada-harvest-wet-hop-ipa--northern-hemisphere/131958/88166/
 Stone IPA &#40;India Pale Ale&#41;,3.8,/beer/stone-ipa-india-pale-ale/422/421727/
-Chimay &#40;Red / Rouge / Ale / Premi\xe8re&#41;,3.0,/beer/chimay-red--rouge--ale--premiere/51/272415/
+Chimay &#40;Red / Rouge / Ale / Premi\xc3\xa8re&#41;,3.0,/beer/chimay-red--rouge--ale--premiere/51/272415/
 Superstition Endovelicus,4.6,/beer/superstition-endovelicus/335468/173938/
 Superstition Endovelicus,4.7,/beer/superstition-endovelicus/335468/313800/
 Superstition Endovelicus,4.5,/beer/superstition-endovelicus/335468/109918/
@@ -773,10 +790,10 @@ Superstition Endovelicus,4.7,/beer/superstition-endovelicus/335468/285421/
 Ballast Point Sculpin IPA,3.9,/beer/ballast-point-sculpin-ipa/50008/377571/
 Beavertown Gamma Ray  ,3.7,/beer/beavertown-gamma-ray/189363/255258/
 Oskar Blues / Shamrock Death By Coconut,3.8,/beer/oskar-blues--shamrock-death-by-coconut/261714/61944/
-Schramm\x92s Black Agnes,4.4,/beer/schramms-black-agnes/254745/112983/
+Schramm\xc2\x92s Black Agnes,4.4,/beer/schramms-black-agnes/254745/112983/
 Hill Farmstead Everett - Bourbon Barrel Aged &#40;2011&#41;,4.4,/beer/hill-farmstead-everett--bourbon-barrel-aged-2011/135762/17095/
 Modern Times City of the Dead,3.8,/beer/modern-times-city-of-the-dead/312152/300892/
-Dieu du Ciel R\xe9surrection,3.3,/beer/dieu-du-ciel-resurrection/8111/80551/
+Dieu du Ciel R\xc3\xa9surrection,3.3,/beer/dieu-du-ciel-resurrection/8111/80551/
 Wiseacre Tiny Bomb American Pilsner,3.0,/beer/wiseacre-tiny-bomb-american-pilsner/227864/6322/
 Casey The Cut: Balaton Cherry,4.1,/beer/casey-the-cut-balaton-cherry/330654/105312/
 Casey The Cut: Balaton Cherry,4.0,/beer/casey-the-cut-balaton-cherry/330654/109918/
@@ -784,24 +801,23 @@ Casey The Cut: Balaton Cherry,3.9,/beer/casey-the-cut-balaton-cherry/330654/1323
 Oskar Blues Hotbox Coffee Porter,3.6,/beer/oskar-blues-hotbox-coffee-porter/132098/61944/
 Casey The Cut: Balaton Cherry,3.9,/beer/casey-the-cut-balaton-cherry/330654/313800/
 Casey The Cut: Balaton Cherry,4.1,/beer/casey-the-cut-balaton-cherry/330654/173938/
-Pilsner Urquell Nefiltrovan\xfd,3.6,/beer/pilsner-urquell-nefiltrovany/44956/271889/
+Pilsner Urquell Nefiltrovan\xc3\xbd,3.6,/beer/pilsner-urquell-nefiltrovany/44956/271889/
 Casey The Cut: Balaton Cherry,4.1,/beer/casey-the-cut-balaton-cherry/330654/285421/
-Dieu du Ciel Solstice d\x92\xc9t\xe9 aux Framboises,3.4,/beer/dieu-du-ciel-solstice-dete-aux-framboises/8116/122088/
+Dieu du Ciel Solstice d\xc2\x92\xc3\x89t\xc3\xa9 aux Framboises,3.4,/beer/dieu-du-ciel-solstice-dete-aux-framboises/8116/122088/
 Tired Hands Alien Church,3.5,/beer/tired-hands-alien-church/251307/7542/
-Fat Head\x92s Hop Stalker Fresh Hop IPA,3.9,/beer/fat-heads-hop-stalker-fresh-hop-ipa/293365/58936/
-Westbrook Key Lime Pie Gose,3.3,/beer/westbrook-key-lime-pie-gose/415994/314904/
+Fat Head\xc2\x92s Hop Stalker Fresh Hop IPA,3.9,/beer/fat-heads-hop-stalker-fresh-hop-ipa/293365/58936/
 Tree House Ma,2.4,/beer/tree-house-ma/207501/294791/
 Stone RuinTen Triple IPA,3.8,/beer/stone-ruinten-triple-ipa/171722/223863/
-Bell\x92s Kalamazoo Stout,3.7,/beer/bells-kalamazoo-stout/3209/102838/
-Cigar City Puppy\x92s Breath Robust Porter,3.9,/beer/cigar-city-puppys-breath-robust-porter/128242/267220/
+Bell\xc2\x92s Kalamazoo Stout,3.7,/beer/bells-kalamazoo-stout/3209/102838/
+Cigar City Puppy\xc2\x92s Breath Robust Porter,3.9,/beer/cigar-city-puppys-breath-robust-porter/128242/267220/
 Schneider Aventinus Weizen-Eisbock,3.9,/beer/schneider-aventinus-weizen-eisbock/10514/381995/
-Chimay Bleue &#40;Blue&#41; / Grande R\xe9serve,4.0,/beer/chimay-bleue-blue--grande-reserve/53/421236/
+Chimay Bleue &#40;Blue&#41; / Grande R\xc3\xa9serve,4.0,/beer/chimay-bleue-blue--grande-reserve/53/421236/
 Alchemist Focal Banger,4.3,/beer/alchemist-focal-banger/100846/112983/
 Cycle / 3 Sons Rare Scooop,4.5,/beer/cycle--3-sons-rare-scooop/420014/132360/
 Cycle / 3 Sons Rare Scooop,4.6,/beer/cycle--3-sons-rare-scooop/420014/105312/
 Cycle / 3 Sons Rare Scooop,4.6,/beer/cycle--3-sons-rare-scooop/420014/109918/
 Cycle / 3 Sons Rare Scooop,4.7,/beer/cycle--3-sons-rare-scooop/420014/313800/
-Tr\xf6egs HopBack Amber Ale,2.8,/beer/troegs-hopback-amber-ale/17495/121719/
+Tr\xc3\xb6egs HopBack Amber Ale,2.8,/beer/troegs-hopback-amber-ale/17495/121719/
 Cycle / 3 Sons Rare Scooop,4.4,/beer/cycle--3-sons-rare-scooop/420014/173938/
 Zero Gravity Vienna Lager,3.7,/beer/zero-gravity-vienna-lager/57018/233969/
 Arrogant Double Bastard Ale in the Rye,4.0,/beer/arrogant-double-bastard-ale-in-the-rye/371904/89413/
@@ -812,11 +828,11 @@ St-Feuillien Triple,3.8,/beer/st-feuillien-triple/2406/414030/
 Dogfish Head 60 Minute IPA,2.7,/beer/dogfish-head-60-minute-ipa/7431/121719/
 Weihenstephaner Korbinian,4.0,/beer/weihenstephaner-korbinian/7823/367177/
 Stone Stochasticity Project Grainiac,5.0,/beer/stone-stochasticity-project-grainiac/374677/424105/
-Chimay Bleue &#40;Blue&#41; / Grande R\xe9serve,4.6,/beer/chimay-bleue-blue--grande-reserve/53/430635/
+Chimay Bleue &#40;Blue&#41; / Grande R\xc3\xa9serve,4.6,/beer/chimay-bleue-blue--grande-reserve/53/430635/
 Aecht Schlenkerla Fastenbier,3.6,/beer/aecht-schlenkerla-fastenbier/43277/328122/
 Dogfish Head My Antonia,2.9,/beer/dogfish-head-my-antonia/116033/121719/
 Beavertown / Boneyard Bloody Notorious,3.9,/beer/beavertown--boneyard-bloody-notorious/426167/377343/
-Narragansett Del\x92s Shandy,3.0,/beer/narragansett-dels-shandy/265556/104742/
+Narragansett Del\xc2\x92s Shandy,3.0,/beer/narragansett-dels-shandy/265556/104742/
 Alchemist Broken Spoke &#40;2016-&#41;,3.9,/beer/alchemist-broken-spoke-2016-/454158/112983/
 Central Waters Ardea Insignis Imperial Stout,4.6,/beer/central-waters-ardea-insignis-imperial-stout/419849/132360/
 Central Waters Ardea Insignis Imperial Stout,4.6,/beer/central-waters-ardea-insignis-imperial-stout/419849/105312/
@@ -824,14 +840,14 @@ Central Waters Ardea Insignis Imperial Stout,4.7,/beer/central-waters-ardea-insi
 Beavertown Gamma Ray  ,3.9,/beer/beavertown-gamma-ray/189363/363727/
 Central Waters Ardea Insignis Imperial Stout,4.6,/beer/central-waters-ardea-insignis-imperial-stout/419849/173938/
 Central Waters Ardea Insignis Imperial Stout,4.7,/beer/central-waters-ardea-insignis-imperial-stout/419849/109918/
-Fuller\x92s ESB &#40;Bottle/Keg&#41;,3.9,/beer/fullers-esb-bottle-keg/290/335425/
+Fuller\xc2\x92s ESB &#40;Bottle/Keg&#41;,3.9,/beer/fullers-esb-bottle-keg/290/335425/
 Central Waters Ardea Insignis Imperial Stout,4.6,/beer/central-waters-ardea-insignis-imperial-stout/419849/285421/
-Fuller\x92s London Porter &#40;Bottle/Keg&#41;,4.2,/beer/fullers-london-porter-bottle-keg/303/397504/
+Fuller\xc2\x92s London Porter &#40;Bottle/Keg&#41;,4.2,/beer/fullers-london-porter-bottle-keg/303/397504/
 Dogfish Head Namaste White,1.5,/beer/dogfish-head-namaste-white/106337/121719/
 Anchor California Lager,3.1,/beer/anchor-california-lager/166433/240178/
 Hill Farmstead / Blaugies Le Sarrasin,4.4,/beer/hill-farmstead--blaugies-le-sarrasin/257839/132360/
 Hill Farmstead / Blaugies Le Sarrasin,4.6,/beer/hill-farmstead--blaugies-le-sarrasin/257839/105312/
-Lagunitas A Little Sumpin\x92 Sumpin\x92 Ale ,3.6,/beer/lagunitas-a-little-sumpin-sumpin-ale/103006/88018/
+Lagunitas A Little Sumpin\xc2\x92 Sumpin\xc2\x92 Ale ,3.6,/beer/lagunitas-a-little-sumpin-sumpin-ale/103006/88018/
 Hill Farmstead / Blaugies Le Sarrasin,4.4,/beer/hill-farmstead--blaugies-le-sarrasin/257839/173938/
 Hill Farmstead / Blaugies Le Sarrasin,4.6,/beer/hill-farmstead--blaugies-le-sarrasin/257839/313800/
 Hill Farmstead / Blaugies Le Sarrasin,4.5,/beer/hill-farmstead--blaugies-le-sarrasin/257839/109918/
@@ -858,7 +874,7 @@ Cigar City Cider and Mead Homemade Apple Pie Cider,3.1,/beer/cigar-city-cider-an
 Trillium Itty Bitty Goose,4.0,/beer/trillium-itty-bitty-goose/275435/38859/
 Beavertown Gamma Ray  ,4.5,/beer/beavertown-gamma-ray/189363/324534/
 Grimm Lambo Door,3.4,/beer/grimm-lambo-door/353386/38859/
-Chimay &#40;Red / Rouge / Ale / Premi\xe8re&#41;,2.8,/beer/chimay-red--rouge--ale--premiere/51/394145/
+Chimay &#40;Red / Rouge / Ale / Premi\xc3\xa8re&#41;,2.8,/beer/chimay-red--rouge--ale--premiere/51/394145/
 The Veil Master Master Shredder Shredder,3.5,/beer/the-veil-master-master-shredder-shredder/428324/38859/
 Knee Deep Simtra Triple IPA,3.7,/beer/knee-deep-simtra-triple-ipa/166154/79214/
 Buxton / Omnipollo Lemon Meringue Ice Cream Pie,4.0,/beer/buxton--omnipollo-lemon-meringue-ice-cream-pie/447868/98624/
@@ -868,19 +884,3 @@ Weltenburger Kloster Barock Dunkel,3.8,/beer/weltenburger-kloster-barock-dunkel/
 Schneider Weisse Original,3.8,/beer/schneider-weisse-original/1762/419889/
 Tree House Juice Machine &#40;2015- &#41;,4.0,/beer/tree-house-juice-machine-2015-/385710/81829/
 Trillium Scaled - Double Dry Hopped,3.7,/beer/trillium-scaled--double-dry-hopped/390513/81829/
-Trillium Fort Point Pale Ale - Galaxy Dry Hopped,4.1,/beer/trillium-fort-point-pale-ale--galaxy-dry-hopped/279560/81829/
-New England Coriolis,4.0,/beer/new-england-coriolis/183987/81829/
-Other Half Double Mosaic Dream,4.1,/beer/other-half-double-mosaic-dream/405387/81829/
-Alchemist Broken Spoke &#40;2016-&#41;,3.7,/beer/alchemist-broken-spoke-2016-/454158/81829/
-Proclamation Derivative Galaxy Hopped Pale Ale,3.9,/beer/proclamation-derivative-galaxy-hopped-pale-ale/294484/81829/
-Hill Farmstead / Kissmeyer / Cambridge Nordic Saison,3.9,/beer/hill-farmstead--kissmeyer--cambridge-nordic-saison/273020/217093/
-O\x92Hanlon\x92s Thomas Hardy\x92s Ale &#40;2003 - 2008&#41;,4.2,/beer/ohanlons-thomas-hardys-ale-2003--2008/31915/385469/
-Founders KBS &#40;Kentucky Breakfast Stout&#41;,4.4,/beer/founders-kbs-kentucky-breakfast-stout/40544/86140/
-Firestone Walker Double Jack IPA,4.9,/beer/firestone-walker-double-jack-ipa/106045/424604/
-Stone IPA &#40;India Pale Ale&#41;,4.0,/beer/stone-ipa-india-pale-ale/422/59348/
-Gulden Draak,4.6,/beer/gulden-draak/3958/282070/
-Rodenbach Alexander,4.0,/beer/rodenbach-alexander/1195/19032/
-Lagunitas Sucks,3.1,/beer/lagunitas-sucks/158433/109427/
-Stone IPA &#40;India Pale Ale&#41;,3.1,/beer/stone-ipa-india-pale-ale/422/109427/
-pFriem Pilsner,3.6,/beer/pfriem-pilsner/214896/6116/
-Founders KBS &#40;Kentucky Breakfast Stout&#41;,4.3,/beer/founders-kbs-kentucky-breakfast-stout/40544/44621/
