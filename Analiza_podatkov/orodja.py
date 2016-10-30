@@ -8,7 +8,9 @@ def shrani_datoteko(lokacija, besedilo):
     imenik = os.path.dirname(lokacija)
     if imenik:
         os.makedirs(imenik, exist_ok=True)
-
+    if os.path.isfile(lokacija):
+            print('Ze shranjeno')
+            return
     with open(lokacija, 'w') as datoteka:
         datoteka.write(besedilo)
         print('shranjeno')
