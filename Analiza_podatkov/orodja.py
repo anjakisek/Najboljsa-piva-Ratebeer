@@ -11,9 +11,11 @@ def shrani_datoteko(lokacija, besedilo):
     if os.path.isfile(lokacija):
             print('Ze shranjeno')
             return
-    with open(lokacija, 'w') as datoteka:
+    with open(lokacija, 'w', encoding='utf-8') as datoteka:
         datoteka.write(besedilo)
         print('shranjeno')
+
+
 
 def shrani_seznam(lokacija, seznam):
     imenik = os.path.dirname(lokacija)
