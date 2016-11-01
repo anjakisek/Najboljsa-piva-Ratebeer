@@ -6,6 +6,40 @@ import orodja
 st_strani = 100
 lokacija = '../../'
 
+
+iskanje = re.compile(r'<a style="font-size:20px; font-weight:bold;" href="/beer(?P<naslov>.*?/)\d{3,11}/"'
+                     r'>(?P<ime>.*?)</a> <span class="uas"',
+                     flags=re.DOTALL)
+
+
+iskanje2 = re.compile(r'<link.*?http://www.ratebeer.com/beer(?P<naslov>.*?)"/>.*?'
+                      r'<big>.*?rewed.*?">(?P<pivovarna>\w.*?)<.*?>.*?'
+                      r'Style:.*?">(?P<stil>\w.*?)</a>.*?'
+                      r'<br>(?P<mesto>.*?),.*?(?P<drzava>\w*?)(\s)*?</div>.*?'
+                      r'>WEIGHTED AVG:.*?<strong><span itemprop="ratingValue">(?P<ocena>\d\.?\d{0,3})</span>.*?'
+                      #r'>EST. CALORIES</abbr>: <big style="color: #777;">(?P<kalorije>\d{2,4})</strong>.*?'
+                      r'<abbr title="Alcohol By Volume".*?><strong>(?P<alkohol>.*?)</strong>',
+                      flags = re.DOTALL)
+
+
+iskanje_kozarci = re.compile(r'<link.*?http://www.ratebeer.com/beer(?P<naslov>.*?)"/>.*?'
+                             r'Serve in .*?(?P<kozarec><a href="/ShowGlassware.*?</a>)</div>',
+                             flags = re.DOTALL)
+
+
+###############################################
+def test():
+    url = "https://www.ratebeer.com/beer-ratings/4/1/"
+    r = requests.get(url)
+    orodja.shrani_datoteko('stran1.txt'.format(lokacija), r.text)
+    tekst = orodja.preberi('stran1.txt'.format(lokacija))
+    for podatki in re.finditer(iskanje, tekst):
+        print(podatki.group('ime'))
+###################################################
+
+
+
+
 def shrani_html1():
     '''Shrani html posameznih strani na listi piv in ustvari tekstovne datoteke'''
     for stran in range(1, st_strani):
@@ -13,13 +47,6 @@ def shrani_html1():
         r = requests.get(url)
         orodja.shrani_datoteko('{}html1/stran{}.txt'.format(lokacija, str(stran)), str(r.text.encode('utf8')))
 
-
-
-
-
-iskanje = re.compile(r'<a style="font-size:20px; font-weight:bold;" href="/beer(?P<naslov>.*?/)\d{3,11}/"'
-                     r'>(?P<ime>.*?)</a> <span class="uas"',
-                     flags=re.DOTALL)
 
 
 def poisci_v_html1():
@@ -43,44 +70,6 @@ def poisci_v_html1():
 
 
 
-iskanje2 = re.compile(r'<link.*?http://www.ratebeer.com/beer(?P<naslov>.*?)"/>.*?'
-                      r'<big>.*?rewed.*?">(?P<pivovarna>\w.*?)<.*?>.*?'
-                      r'Style:.*?">(?P<stil>\w.*?)</a>.*?'
-                      r'<br>(?P<mesto>.*?),.*?(?P<drzava>\w*?)(\s)*?</div>.*?'
-                      r'>WEIGHTED AVG:.*?<strong><span itemprop="ratingValue">(?P<ocena>\d\.?\d{0,3})</span>.*?'
-                      #r'>EST. CALORIES</abbr>: <big style="color: #777;">(?P<kalorije>\d{2,4})</strong>.*?'
-                      r'<abbr title="Alcohol By Volume".*?><strong>(?P<alkohol>.*?)</strong>',
-                      flags = re.DOTALL)
-
-
-
-#iskanja za preizkusanje posameznih iskanj - kalorije ne nastopajo pri nekaj pivih, zato jih bom zaenkrat izpustila
-iskanje_ocen = re.compile(r'>WEIGHTED AVG:.*?<strong><span itemprop="ratingValue">(?P<ocena>\d\.?\d{0,3})</span>')
-#iskanje_naslov = re.compile(r'<link.*?http://www.ratebeer.com/beer(?P<naslov>.*?)"/>',flags = re.DOTALL)
-#iskanje_pivovarna = re.compile(r'<big>.*?rewed.*?">(?P<pivovarna>\w.*?)<.*?>',flags = re.DOTALL)
-#iskanje_stil = re.compile(r'Style:.*?">(?P<stil>\w.*?)</a>.*?', flags = re.DOTALL)
-#iskanje_lokacija = re.compile(r'Style:.*?<br>(?P<mesto>.*?),.*?(?P<drzava>\w*?)(\s)*?</div>.*?', flags = re.DOTALL)
-#iskanje_kalorije = re.compile(r'>EST. CALORIES</abbr>: <big style="color: #777;">(?P<kalorije>\d{2,4})</strong>.*?',flags = re.DOTALL)
-#iskanje_alkohol = re.compile(r'<abbr title="Alcohol By Volume".*?><strong>(?P<alkohol>.*?)</strong>',
-#                      flags = re.DOTALL)
-
-def proba_posamezno():
-    besedilo = orodja.preberi('{}html2/stran{}.txt'.format(lokacija, 86))
-    for glazek in re.finditer(iskanje_ocen, besedilo):
-            print(glazek.groupdict())
-
-
-#def proba():
-#    for i in range(1, 683):
-#        besedilo = orodja.preberi('{}html2/stran{}.txt'.format(lokacija, i))
-#        for glazek in re.finditer(iskanje_ocen, besedilo):
-#            print(glazek.group('ocena'))
-
-
-
-
-
-
 def olepsaj(podatki):
     '''Preuredi obliko vrednosti v slovarju'''
     info = podatki.groupdict()
@@ -89,9 +78,11 @@ def olepsaj(podatki):
     info['alkohol'] = olepsaj_alkohol(info['alkohol'])
     return info
 
+
 def olepsaj_alkohol(besedilo):
     '''Pobriše znak %'''
     return besedilo[:len(besedilo) - 1]
+
 
 def olepsaj_lokacijo(besedilo):
     '''Za mesta, ki imajo pred seboj linke, izloci mesto'''
@@ -115,6 +106,8 @@ def shrani_html2():
 
 
 
+
+
 def shrani_drugo_tabelo():
     '''Za posamezno pivo prebere html2 in shrani csv: naslov, pivovarno, mesto, državo, stil, (kalorije) in vsebnost alkohola.'''
     pivo = []
@@ -128,9 +121,7 @@ def shrani_drugo_tabelo():
 
 
 
-iskanje_kozarci = re.compile(r'<link.*?http://www.ratebeer.com/beer(?P<naslov>.*?)"/>.*?'
-                             r'Serve in .*?(?P<kozarec><a href="/ShowGlassware.*?</a>)</div>',
-                             flags = re.DOTALL)
+
 
 def olepsaj_kozarce(info):
     '''Ponovni regex niza okoli kozarcev, vrne seznam'''
@@ -141,6 +132,9 @@ def olepsaj_kozarce(info):
         seznam.append(i.group('kozarec'))
     besedilo['kozarec'] = seznam
     return besedilo
+
+
+
 
 kozarci = []
 seznam_kozarci = []
