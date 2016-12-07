@@ -4,15 +4,16 @@ import sys
 import os
 import csv
 
-def shrani_datoteko(lokacija, besedilo):
+def shrani_datoteko(url, lokacija):
     imenik = os.path.dirname(lokacija)
     if imenik:
         os.makedirs(imenik, exist_ok=True)
     if os.path.isfile(lokacija):
             print('Ze shranjeno')
             return
+    r = requests.get(url)
     with open(lokacija, 'w', encoding='utf-8') as datoteka:
-        datoteka.write(besedilo)
+        datoteka.write(r.text)
         print('shranjeno')
 
 
