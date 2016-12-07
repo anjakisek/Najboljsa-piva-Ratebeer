@@ -2,6 +2,7 @@ import re
 import requests
 import os
 import orodja
+import html
 
 st_strani = 100
 lokacija = '../../'
@@ -27,14 +28,22 @@ iskanje_kozarci = re.compile(r'<link.*?http://www.ratebeer.com/beer(?P<naslov>.*
                              flags = re.DOTALL)
 
 
+def zamenjaj(niz):
+    niz = niz.replace('&#40;', '(')
+    niz = niz.replace('&#41;', ')')
+    niz = niz.replace('\\xc2\\x92', "\'")
+    return niz
+
 ###############################################
 def test():
-    url = "https://www.ratebeer.com/beer-ratings/4/1/"
-    r = requests.get(url)
-    orodja.shrani_datoteko('stran1.txt'.format(lokacija), r.text)
-    tekst = orodja.preberi('stran1.txt'.format(lokacija))
+    url = "https://www.ratebeer.com/beer-ratings/4/2/"
+    orodja.shrani_datoteko(url, 'stran2.txt'.format(lokacija))
+    tekst = orodja.preberi('stran2.txt'.format(lokacija))
+    stvar = []
     for podatki in re.finditer(iskanje, tekst):
-        print(podatki.group('ime'))
+        stvar.append(zamenjaj(podatki.group('ime')))
+    with open('proba2.txt', 'w') as d:
+        d.write(str(stvar))
 ###################################################
 
 
@@ -44,9 +53,13 @@ def shrani_html1():
     '''Shrani html posameznih strani na listi piv in ustvari tekstovne datoteke'''
     for stran in range(1, st_strani):
         url = "https://www.ratebeer.com/beer-ratings/4/{}/".format(str(stran))
-        r = requests.get(url)
-        orodja.shrani_datoteko('{}html1/stran{}.txt'.format(lokacija, str(stran)), str(r.text.encode('utf8')))
+        orodja.shrani_datoteko(url, '{}html1/stran{}.txt'.format(lokacija, str(stran)))
 
+def olepsaj_imena(podatki):
+    '''Preuredi obliko vrednosti v slovarju'''
+    info = podatki.groupdict()
+    info['ime'] = zamenjaj(info['ime'])
+    return info
 
 
 def poisci_v_html1():
@@ -60,7 +73,7 @@ def poisci_v_html1():
         for podatki in re.finditer(iskanje, tekst):
             if podatki.group('ime') not in seznam_porabljenih:
                 seznam_url.append(podatki.group('naslov'))
-                seznam_slovarjev.append(podatki.groupdict())
+                seznam_slovarjev.append(olepsaj_imena(podatki))
                 seznam_porabljenih.append(podatki.group('ime'))
 
     orodja.shrani_seznam('../seznam_url.txt', seznam_url)
@@ -74,8 +87,9 @@ def olepsaj(podatki):
     '''Preuredi obliko vrednosti v slovarju'''
     info = podatki.groupdict()
     info['mesto'] = olepsaj_lokacijo(info['mesto'])
-    #info['kalorije'] = int(info['kalorije'])
     info['alkohol'] = olepsaj_alkohol(info['alkohol'])
+    info['stil'] = zamenjaj(info['stil'])
+    info['pivovarna'] = zamenjaj(info['pivovarna'])
     return info
 
 
@@ -97,11 +111,10 @@ def olepsaj_lokacijo(besedilo):
 def shrani_html2():
     '''Za posamezno pivo obisce spletno stran in shrani datoteke'''
     naslovi = orodja.preberi('../seznam_url.txt').split('\n')
-    for i in range(0, len(naslovi) - 1):
+    for i in range(0, len(naslovi) - 6):
         naslov = naslovi[i]
         url = 'https://www.ratebeer.com{}'.format(naslov)
-        besedilo = requests.get(url)
-        orodja.shrani_datoteko('{}html2/stran{}.txt'.format(lokacija, str(i + 1)), str(besedilo.text.encode('utf8')))
+        orodja.shrani_datoteko(url, '{}html2/stran{}.txt'.format(lokacija, str(i + 1)))
 
 
 
@@ -114,7 +127,6 @@ def shrani_drugo_tabelo():
     for i in range(1, 677):
         besedilo = orodja.preberi('{}html2/stran{}.txt'.format(lokacija, i))
         for glazek in re.finditer(iskanje2, besedilo):
-            print(glazek.groupdict())
             pivo.append(olepsaj(glazek))
     orodja.shrani_csv(pivo, ['naslov', 'ocena', 'pivovarna', 'mesto', 'drzava', 'stil', 'alkohol'], 'pivo.csv')
 
