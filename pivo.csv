@@ -76,7 +76,7 @@ naslov,ocena,pivovarna,mesto,drzava,stil,alkohol
 /mikkeller-san-diego-california-dream/414045/,3.5,Mikkeller Brewing Company - San Diego,San Diego,USA,Pilsener,4.2
 /maisels-weisse-original/4560/,3.54,Brauerei Gebr. Maisel Bayreuth,,Germany,German Hefeweizen,5.2
 /arrogant-who-you-callin-wussie/429477/,3.48,Stone Brewing,Escondido,USA,Pilsener,5.8
-/paulaner-hefe-weissbier-hefe-weizen-55/647/,3.58,Paulaner Brauerei (Sch\xc3\xb6rghuber),,Germany,German Hefeweizen,5.5
+/paulaner-hefe-weissbier-hefe-weizen-55/647/,3.58,Paulaner Brauerei (Schorghuber),,Germany,German Hefeweizen,5.5
 /maui-brewing-coconut-hiwa-porter/59330/,3.69,Maui Brewing Company,,USA,Porter,6
 /boombox--machine-pablo-esco-gnar/454620/,3.83,Callister Brewing,,Canada,India Pale Ale (IPA),7.2
 /fremont-brew-1000/270858/,4.08,Fremont Brewing Company,Seattle,USA,Barley Wine,10
@@ -296,7 +296,7 @@ naslov,ocena,pivovarna,mesto,drzava,stil,alkohol
 /tree-house-sap-december-2015--/385871/,3.87,Tree House Brewing Company,Monson,USA,India Pale Ale (IPA),7.3
 /founders-harvest-ale/40277/,3.89,Founders Brewing Company,Grand Rapids,USA,India Pale Ale (IPA),7.6
 /victory-kirsch-gose/314785/,3.58,Victory Brewing Company (ABV),Downingtown,USA,Fruit Beer,4.7
-/kulmbacher-eisbock/14367/,3.8,Kulmbacher Brauerei (Sch\xc3\xb6rghuber),,Germany,Eisbock,9.2
+/kulmbacher-eisbock/14367/,3.8,Kulmbacher Brauerei (Schorghuber),,Germany,Eisbock,9.2
 /schneider-weisse-tap-x-mein-cuvee-barrique/180392/,3.69,Schneider Weisse G. Schneider & Sohn GmbH,,Germany,Weizen Bock,9.5
 /alesmith-anvil-esb/2500/,3.58,AleSmith Brewing Company,San Diego,USA,Premium Bitter/ESB,5.5
 /arrogant-double-bastard-ale/11243/,4.01,Stone Brewing,Escondido,USA,American Strong Ale,11.2
@@ -337,7 +337,7 @@ naslov,ocena,pivovarna,mesto,drzava,stil,alkohol
 /stone-ruinten-triple-ipa/171722/,3.99,Stone Brewing,Escondido,USA,Imperial IPA,10.8
 /hill-farmstead-earl/127227/,4.01,Hill Farmstead Brewery,Greensboro,USA,Stout,7.2
 /pipeworks-blood-of-the-unicorn-2015-/351068/,3.7,Pipeworks Brewing Company,Chicago,USA,Amber Ale,6.5
-/huss-koffee-kolsch/347658/,3.54,Huss Brewing Company - Tempe Taproom,Tempe,USA,K\xc3\xb6lsch,4.8
+/huss-koffee-kolsch/347658/,3.54,Huss Brewing Company - Tempe Taproom,Tempe,USA,Kolsch,4.8
 /bells-quinannan-falls-special-lager/111363/,3.59,Bell's Brewery,Galesburg,USA,Premium Lager,6.3
 /hoppin-frog-tower-tuesday-infusion-a--coffee-porter/261765/,3.86,Hoppin' Frog Brewery,Akron,USA,Porter,6.2
 /the-kernel-pale-ale-citra-centennial/162431/,3.73,The Kernel,,England,American Pale Ale,5.3
@@ -485,7 +485,7 @@ naslov,ocena,pivovarna,mesto,drzava,stil,alkohol
 /the-kernel-india-pale-ale-galaxy/154862/,3.83,The Kernel,,England,India Pale Ale (IPA),7.4
 /fremont-field-to-ferment--citra/452745/,3.67,Fremont Brewing Company,Seattle,USA,American Pale Ale,6
 /alpine-beer-company-pure-hoppiness/18829/,3.97,Green Flash Brewing Company,Alpine,USA,Imperial IPA,8
-/momokawa-g-joy-junmai-ginjo-genshu-sake/54355/,3.49,SakeOne Corporation,Forest Grove,USA,Sak\xc3\xa9 - Genshu,18
+/momokawa-g-joy-junmai-ginjo-genshu-sake/54355/,3.49,SakeOne Corporation,Forest Grove,USA,Sake - Genshu,18
 /almanac-saison-de-brettaville/364123/,3.84,Hermitage Brewing Company,San Francisco,USA,Saison,7.2
 /urban-chestnut-oachkatzlschwoaf/154922/,3.46,Urban Chestnut Brewing Company,St. Louis,USA,Oktoberfest/M\xc3\xa4rzen,6.5
 /rock-art-humble-harvester/286618/,3.65,Rock Art Brewery,Morrisville,USA,Traditional Ale,6
@@ -497,7 +497,7 @@ naslov,ocena,pivovarna,mesto,drzava,stil,alkohol
 /new-belgium-la-folie/10513/,3.97,New Belgium Brewing Company,Fort Collins,USA,Sour Red/Brown,7
 /prairie-apple-brandy-barrel-noir/311784/,4.11,Krebs Brewing Company / Pete's Place / Choc Beer,Tulsa,USA,Imperial Stout,12
 /stone-bastards-midnight-brunch/414489/,3.87,Stone Brewing,Escondido,USA,American Strong Ale,12.7
-/40ft-larger/337533/,3.38,40ft Brewery,,England,K\xc3\xb6lsch,4.8
+/40ft-larger/337533/,3.38,40ft Brewery,,England,Kolsch,4.8
 /karbach-krunkin-pumpkin/188324/,3.59,Karbach Brewing Co.,Houston,USA,Spice/Herb/Vegetable,7.9
 /allagash-avance/69525/,3.91,Allagash Brewing Company,Portland,USA,Belgian Strong Ale,10.2
 /de-dolle-stille-nacht-special-reserva-2005/59477/,3.99,De Dolle Brouwers,,Belgium,Belgian Strong Ale,13
@@ -591,7 +591,7 @@ naslov,ocena,pivovarna,mesto,drzava,stil,alkohol
 /cigar-city-maduro-brown-ale--vanilla/104134/,3.7,Cigar City Brewing,Tampa,USA,Brown Ale,5.5
 /lawsons-finest-super-session-ipa-2/274596/,3.8,Two Roads Brewing Company,Warren,USA,Session IPA,4.8
 /victory-hopdevil/618/,3.78,Victory Brewing Company (ABV),Downingtown,USA,India Pale Ale (IPA),6.7
-/troegs-hopback-amber-ale/17495/,3.62,Tr\xc3\xb6egs Brewing Company,Hershey,USA,Amber Ale,6
+/troegs-hopback-amber-ale/17495/,3.62,Troegs Brewing Company,Hershey,USA,Amber Ale,6
 /trillium-stillings-street-ipa/444497/,3.92,Trillium Brewing Company,Boston,USA,India Pale Ale (IPA),7.2
 /rogue-hazelnut-brown-nectar/585/,3.7,Rogue Ales,Newport,USA,Brown Ale,6
 /bear-republic-racer-5-ipa/1608/,3.87,Bear Republic Brewing Company,Healdsburg,USA,India Pale Ale (IPA),7.5
