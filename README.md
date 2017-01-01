@@ -19,3 +19,5 @@ Analizirala bom naslednje:
 - povprečna ocena pivovarne
 - najbolje ocenjen stil
 - najbolj pogost kozarec
+
+Koda za zajem podatkov se nahaja v mapi _Analiza podatkov_, v datoteki _Piva-Ratebeer.ipynb_ pa so podatki obdelani.
