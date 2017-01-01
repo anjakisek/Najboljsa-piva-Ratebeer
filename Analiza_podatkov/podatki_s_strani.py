@@ -32,6 +32,8 @@ def zamenjaj(niz):
     niz = niz.replace('&#40;', '(')
     niz = niz.replace('&#41;', ')')
     niz = niz.replace('\\xc2\\x92', "\'")
+    niz = niz.replace('\\xc3\\xa9', "e")
+    niz = niz.replace('\\xc3\\xb6', "o")
     return niz
 
 ###############################################
@@ -141,7 +143,7 @@ def olepsaj_kozarce(info):
     isci = re.compile(r'.*?modal:open">(?P<kozarec>.*?)</a>.*?', flags = re.DOTALL)
     seznam = []
     for i in re.finditer(isci, str(besedilo)):
-        seznam.append(i.group('kozarec'))
+        seznam.append(zamenjaj(i.group('kozarec')))
     besedilo['kozarec'] = seznam
     return besedilo
 
